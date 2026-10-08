@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "SYNon",
+  "address": "0xeaed376101a0730376e4b7b4b90a6506bc9c6b61",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ },
+ {
+  "symbol": "SYNx",
+  "address": "0x4c75cce3da84f5c96cefd24d4718aefaccbdef31",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ },
+ {
+  "symbol": "SYNon10",
+  "address": "0xbb2becf791f3b586f39d949353ab19ee0c3b9f5c",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "10"
+ }
+]

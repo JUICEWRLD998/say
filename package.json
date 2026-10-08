@@ -2,5 +2,18 @@
   "name": "say",
   "private": true,
   "version": "0.0.0",
-  "workspaces": ["packages/*", "apps/*"]
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "viem": "^2.57.4"
+  },
+  "scripts": {
+    "test": "pnpm --filter @say/core test",
+    "typecheck": "pnpm --filter @say/core typecheck",
+    "fixture": "node scripts/make-fixture.mjs",
+    "recount": "node scripts/recount.mjs fixtures/meetings/synthetic-2026",
+    "recount:control": "node scripts/recount.mjs fixtures/meetings/synthetic-2026 --control"
+  }
 }

@@ -1,0 +1,70 @@
+{
+ "meetingId": "synthetic-2026",
+ "totals": {
+  "p1": {
+   "FOR": "40000000000000000000",
+   "AGAINST": "100000000000000000000",
+   "ABSTAIN": "105000000000000000000"
+  },
+  "p2": {
+   "FOR": "245000000000000000000",
+   "AGAINST": "0",
+   "ABSTAIN": "0"
+  }
+ },
+ "counted": [
+  {
+   "voter": "0x54E7b08a917Fd3aaF16523Ee742D2ae2B20B6cfa",
+   "recordE18": "105000000000000000000",
+   "closeE18": "105000000000000000000",
+   "weightE18": "105000000000000000000",
+   "issuedAt": "1",
+   "choices": {
+    "p1": "ABSTAIN",
+    "p2": "FOR"
+   }
+  },
+  {
+   "voter": "0x9B18018F0c2948aB59f189cf0D2b58f5f972475a",
+   "recordE18": "100000000000000000000",
+   "closeE18": "100000000000000000000",
+   "weightE18": "100000000000000000000",
+   "issuedAt": "2",
+   "choices": {
+    "p1": "AGAINST",
+    "p2": "FOR"
+   }
+  },
+  {
+   "voter": "0xf8Af094a7a1150E05626bcB5F90Caa6e694C0954",
+   "recordE18": "100000000000000000000",
+   "closeE18": "40000000000000000000",
+   "weightE18": "40000000000000000000",
+   "issuedAt": "1",
+   "choices": {
+    "p1": "FOR",
+    "p2": "FOR"
+   }
+  }
+ ],
+ "voice": [
+  {
+   "voter": "0x9b2a5b1AEF1c7261FE66075459A02fEc5FBF2D06",
+   "recordE18": "50000000000000000000",
+   "closeE18": "0",
+   "reason": "sold_before_close"
+  },
+  {
+   "voter": "0xeA8e53FD7cD2e7B756C0a6F36388Cc8499c7cd8E",
+   "recordE18": "0",
+   "closeE18": "100000000000000000000",
+   "reason": "zero_at_record_date"
+  }
+ ],
+ "rejected": [
+  {
+   "index": 0,
+   "reason": "superseded"
+  }
+ ]
+}

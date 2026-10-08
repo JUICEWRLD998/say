@@ -1,0 +1,110 @@
+[
+ {
+  "signature": "0x8c46273c0a00b02ae9e0c57e36b5a3d56580641ffba17d723ed1e03cfc4d7c9655283f068cce7e9cef86933595d065bf7af999dac44522cb3f8388368c8e43f61b",
+  "message": {
+   "meetingId": "synthetic-2026",
+   "ticker": "SYN",
+   "voter": "0x9B18018F0c2948aB59f189cf0D2b58f5f972475a",
+   "recordBlock": "1000",
+   "issuedAt": "1",
+   "proposalIds": [
+    "p1",
+    "p2"
+   ],
+   "choices": [
+    "FOR",
+    "FOR"
+   ]
+  }
+ },
+ {
+  "signature": "0x69b56235ed5155b0c557201734580d74221736afde53854ddfd5bd85adfd23bc2354348cbe9e0c1480112e5488dbe71a7414868d8ab20d6d497268a3cec932251c",
+  "message": {
+   "meetingId": "synthetic-2026",
+   "ticker": "SYN",
+   "voter": "0x9B18018F0c2948aB59f189cf0D2b58f5f972475a",
+   "recordBlock": "1000",
+   "issuedAt": "2",
+   "proposalIds": [
+    "p1",
+    "p2"
+   ],
+   "choices": [
+    "AGAINST",
+    "FOR"
+   ]
+  }
+ },
+ {
+  "signature": "0x428b807eae2ec9e685f930ae33b72bbb23bcbb12a4ce8087adde1ba139d0250a158dbd876bc28feb9a2daf8b120f92735bc706fb0d37bd5c79b5f7342df232081c",
+  "message": {
+   "meetingId": "synthetic-2026",
+   "ticker": "SYN",
+   "voter": "0xeA8e53FD7cD2e7B756C0a6F36388Cc8499c7cd8E",
+   "recordBlock": "1000",
+   "issuedAt": "1",
+   "proposalIds": [
+    "p1",
+    "p2"
+   ],
+   "choices": [
+    "AGAINST",
+    "AGAINST"
+   ]
+  }
+ },
+ {
+  "signature": "0x3119b4156ea6d768406231481c09e27ef0cde05b1a50745374c39c3692bfd6752ae9fea892d86eba9f2be09d0aa0cbe17b0d02f0ec0df7c110bc505e8942cc381b",
+  "message": {
+   "meetingId": "synthetic-2026",
+   "ticker": "SYN",
+   "voter": "0x9b2a5b1AEF1c7261FE66075459A02fEc5FBF2D06",
+   "recordBlock": "1000",
+   "issuedAt": "1",
+   "proposalIds": [
+    "p1",
+    "p2"
+   ],
+   "choices": [
+    "AGAINST",
+    "AGAINST"
+   ]
+  }
+ },
+ {
+  "signature": "0xa7e83fe037aa130526a9258fd4723431d9265ab5e4d5385f8bcf35e4e844c5b857c5910f061c27319ab6b6e608824ca45cc9de0d9404fdf59979246b47d28d3c1c",
+  "message": {
+   "meetingId": "synthetic-2026",
+   "ticker": "SYN",
+   "voter": "0xf8Af094a7a1150E05626bcB5F90Caa6e694C0954",
+   "recordBlock": "1000",
+   "issuedAt": "1",
+   "proposalIds": [
+    "p1",
+    "p2"
+   ],
+   "choices": [
+    "FOR",
+    "FOR"
+   ]
+  }
+ },
+ {
+  "signature": "0xe2bf6c1f7c1516d5be94308291e51970976ee346d455a06233a5e29c8ce0639c3638525d7a3455e428934d83e1abf80e8bcc083e28a0f7e5f70bc4fa12cf01981b",
+  "message": {
+   "meetingId": "synthetic-2026",
+   "ticker": "SYN",
+   "voter": "0x54E7b08a917Fd3aaF16523Ee742D2ae2B20B6cfa",
+   "recordBlock": "1000",
+   "issuedAt": "1",
+   "proposalIds": [
+    "p1",
+    "p2"
+   ],
+   "choices": [
+    "ABSTAIN",
+    "FOR"
+   ]
+  }
+ }
+]

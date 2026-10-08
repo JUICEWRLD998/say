@@ -1,0 +1,23 @@
+{
+ "id": "synthetic-2026",
+ "ticker": "SYN",
+ "cik": "0000000000",
+ "recordBlock": "1000",
+ "closeBlock": "2000",
+ "proposals": [
+  {
+   "id": "p1",
+   "kind": "director_election",
+   "text": "Elect the nominee",
+   "quote": "Elect the nominee",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "p2",
+   "kind": "say_on_pay",
+   "text": "Advisory pay vote",
+   "quote": "Advisory pay vote",
+   "boardRec": "FOR"
+  }
+ ]
+}

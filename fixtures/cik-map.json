@@ -1,0 +1,1666 @@
+{
+ "matched": {
+  "MRNA": {
+   "cik": "0001682852",
+   "name": "Moderna, Inc."
+  },
+  "OXY": {
+   "cik": "0000797468",
+   "name": "OCCIDENTAL PETROLEUM CORP /DE/"
+  },
+  "AAL": {
+   "cik": "0000006201",
+   "name": "American Airlines Group Inc."
+  },
+  "ORCL": {
+   "cik": "0001341439",
+   "name": "ORACLE CORP"
+  },
+  "NKE": {
+   "cik": "0000320187",
+   "name": "NIKE, Inc."
+  },
+  "NVO": {
+   "cik": "0000353278",
+   "name": "NOVO NORDISK A S"
+  },
+  "GOOGL": {
+   "cik": "0001652044",
+   "name": "Alphabet Inc."
+  },
+  "GS": {
+   "cik": "0000886982",
+   "name": "GOLDMAN SACHS GROUP INC"
+  },
+  "COP": {
+   "cik": "0001163165",
+   "name": "CONOCOPHILLIPS"
+  },
+  "ADI": {
+   "cik": "0000006281",
+   "name": "ANALOG DEVICES INC"
+  },
+  "PANW": {
+   "cik": "0001327567",
+   "name": "Palo Alto Networks Inc"
+  },
+  "AVGO": {
+   "cik": "0001730168",
+   "name": "Broadcom Inc."
+  },
+  "SNOW": {
+   "cik": "0001640147",
+   "name": "Snowflake Inc."
+  },
+  "MRVL": {
+   "cik": "0001835632",
+   "name": "Marvell Technology, Inc."
+  },
+  "HOOD": {
+   "cik": "0001783879",
+   "name": "Robinhood Markets, Inc."
+  },
+  "CPNG": {
+   "cik": "0001834584",
+   "name": "Coupang, Inc."
+  },
+  "V": {
+   "cik": "0001403161",
+   "name": "VISA INC."
+  },
+  "AMC": {
+   "cik": "0001411579",
+   "name": "AMC ENTERTAINMENT HOLDINGS, INC."
+  },
+  "GRND": {
+   "cik": "0001820144",
+   "name": "Grindr Inc."
+  },
+  "TSLA": {
+   "cik": "0001318605",
+   "name": "Tesla, Inc."
+  },
+  "BLK": {
+   "cik": "0002012383",
+   "name": "BlackRock, Inc."
+  },
+  "TMUS": {
+   "cik": "0001283699",
+   "name": "T-Mobile US, Inc."
+  },
+  "MA": {
+   "cik": "0001141391",
+   "name": "Mastercard Inc"
+  },
+  "CAT": {
+   "cik": "0000018230",
+   "name": "CATERPILLAR INC"
+  },
+  "RIVN": {
+   "cik": "0001874178",
+   "name": "Rivian Automotive, Inc. / DE"
+  },
+  "NTES": {
+   "cik": "0001110646",
+   "name": "NetEase, Inc."
+  },
+  "PBR": {
+   "cik": "0001119639",
+   "name": "PETROBRAS - PETROLEO BRASILEIRO SA"
+  },
+  "LOW": {
+   "cik": "0000060667",
+   "name": "LOWES COMPANIES INC"
+  },
+  "JPM": {
+   "cik": "0000019617",
+   "name": "JPMORGAN CHASE & CO"
+  },
+  "HD": {
+   "cik": "0000354950",
+   "name": "HOME DEPOT, INC."
+  },
+  "UNH": {
+   "cik": "0000731766",
+   "name": "UNITEDHEALTH GROUP INC"
+  },
+  "LLY": {
+   "cik": "0000059478",
+   "name": "ELI LILLY & Co"
+  },
+  "CSCO": {
+   "cik": "0000858877",
+   "name": "CISCO SYSTEMS, INC."
+  },
+  "COST": {
+   "cik": "0000909832",
+   "name": "COSTCO WHOLESALE CORP /NEW"
+  },
+  "LRCX": {
+   "cik": "0000707549",
+   "name": "LAM RESEARCH CORP"
+  },
+  "PYPL": {
+   "cik": "0001633917",
+   "name": "PayPal Holdings, Inc."
+  },
+  "AAPL": {
+   "cik": "0000320193",
+   "name": "Apple Inc."
+  },
+  "PALL": {
+   "cik": "0001459862",
+   "name": "abrdn Palladium ETF Trust"
+  },
+  "PG": {
+   "cik": "0000080424",
+   "name": "PROCTER & GAMBLE Co"
+  },
+  "KO": {
+   "cik": "0000021344",
+   "name": "COCA COLA CO"
+  },
+  "T": {
+   "cik": "0000732717",
+   "name": "AT&T INC."
+  },
+  "SHOP": {
+   "cik": "0001594805",
+   "name": "SHOPIFY INC."
+  },
+  "RTX": {
+   "cik": "0000101829",
+   "name": "RTX Corp"
+  },
+  "AMZN": {
+   "cik": "0001018724",
+   "name": "AMAZON COM INC"
+  },
+  "BIDU": {
+   "cik": "0001329099",
+   "name": "Baidu, Inc."
+  },
+  "HIMS": {
+   "cik": "0001773751",
+   "name": "Hims & Hers Health, Inc."
+  },
+  "PLUG": {
+   "cik": "0001093691",
+   "name": "PLUG POWER INC"
+  },
+  "PCG": {
+   "cik": "0001004980",
+   "name": "PG&E Corp"
+  },
+  "MP": {
+   "cik": "0001801368",
+   "name": "MP Materials Corp. / DE"
+  },
+  "XOM": {
+   "cik": "0002115436",
+   "name": "ExxonMobil Holdings Corp"
+  },
+  "RDDT": {
+   "cik": "0001713445",
+   "name": "Reddit, Inc."
+  },
+  "SPOT": {
+   "cik": "0001639920",
+   "name": "Spotify Technology S.A."
+  },
+  "GE": {
+   "cik": "0000040545",
+   "name": "GENERAL ELECTRIC CO"
+  },
+  "ARM": {
+   "cik": "0001973239",
+   "name": "ARM HOLDINGS PLC /UK"
+  },
+  "BMNR": {
+   "cik": "0001829311",
+   "name": "BITMINE IMMERSION TECHNOLOGIES, INC."
+  },
+  "ANET": {
+   "cik": "0001596532",
+   "name": "Arista Networks, Inc."
+  },
+  "COF": {
+   "cik": "0000927628",
+   "name": "CAPITAL ONE FINANCIAL CORP"
+  },
+  "SPGI": {
+   "cik": "0000064040",
+   "name": "S&P Global Inc."
+  },
+  "APO": {
+   "cik": "0001858681",
+   "name": "Apollo Global Management, Inc."
+  },
+  "ABT": {
+   "cik": "0000001800",
+   "name": "ABBOTT LABORATORIES"
+  },
+  "FUTU": {
+   "cik": "0001754581",
+   "name": "Futu Holdings Ltd"
+  },
+  "AMAT": {
+   "cik": "0000006951",
+   "name": "APPLIED MATERIALS INC /DE"
+  },
+  "MELI": {
+   "cik": "0001099590",
+   "name": "MERCADOLIBRE INC"
+  },
+  "FIGR": {
+   "cik": "0002064124",
+   "name": "Figure Technology Solutions, Inc."
+  },
+  "WFC": {
+   "cik": "0000072971",
+   "name": "WELLS FARGO & COMPANY/MN"
+  },
+  "TCOM": {
+   "cik": "0001269238",
+   "name": "Trip.com Group Ltd"
+  },
+  "CEG": {
+   "cik": "0001868275",
+   "name": "Constellation Energy Corp"
+  },
+  "SPY": {
+   "cik": "0000884394",
+   "name": "SPDR S&P 500 ETF TRUST"
+  },
+  "MSFT": {
+   "cik": "0000789019",
+   "name": "MICROSOFT CORP"
+  },
+  "INTU": {
+   "cik": "0000896878",
+   "name": "INTUIT INC."
+  },
+  "NFLX": {
+   "cik": "0001065280",
+   "name": "NETFLIX INC"
+  },
+  "DNN": {
+   "cik": "0001063259",
+   "name": "DENISON MINES CORP."
+  },
+  "SOFI": {
+   "cik": "0001818874",
+   "name": "SoFi Technologies, Inc."
+  },
+  "MSTR": {
+   "cik": "0001050446",
+   "name": "Strategy Inc"
+  },
+  "DASH": {
+   "cik": "0001792789",
+   "name": "DoorDash, Inc."
+  },
+  "ISRG": {
+   "cik": "0001035267",
+   "name": "INTUITIVE SURGICAL INC"
+  },
+  "ACN": {
+   "cik": "0001467373",
+   "name": "Accenture plc"
+  },
+  "BBAI": {
+   "cik": "0001836981",
+   "name": "BigBear.ai Holdings, Inc."
+  },
+  "GEMI": {
+   "cik": "0002055592",
+   "name": "Gemini Space Station, Inc."
+  },
+  "ABBV": {
+   "cik": "0001551152",
+   "name": "AbbVie Inc."
+  },
+  "MRK": {
+   "cik": "0000310158",
+   "name": "Merck & Co., Inc."
+  },
+  "OPRA": {
+   "cik": "0001737450",
+   "name": "Opera Ltd"
+  },
+  "PFE": {
+   "cik": "0000078003",
+   "name": "PFIZER INC"
+  },
+  "MU": {
+   "cik": "0000723125",
+   "name": "MICRON TECHNOLOGY INC"
+  },
+  "SLV": {
+   "cik": "0001330568",
+   "name": "iShares Silver Trust"
+  },
+  "QBTS": {
+   "cik": "0001907982",
+   "name": "D-Wave Quantum Inc."
+  },
+  "C": {
+   "cik": "0000831001",
+   "name": "CITIGROUP INC"
+  },
+  "IREN": {
+   "cik": "0001878848",
+   "name": "IREN Ltd"
+  },
+  "DE": {
+   "cik": "0000315189",
+   "name": "DEERE & CO"
+  },
+  "ACHR": {
+   "cik": "0001824502",
+   "name": "Archer Aviation Inc."
+  },
+  "BILI": {
+   "cik": "0001723690",
+   "name": "Bilibili Inc."
+  },
+  "PLTR": {
+   "cik": "0001321655",
+   "name": "Palantir Technologies Inc."
+  },
+  "FIG": {
+   "cik": "0001579878",
+   "name": "Figma, Inc."
+  },
+  "USO": {
+   "cik": "0001327068",
+   "name": "United States Oil Fund, LP"
+  },
+  "SBUX": {
+   "cik": "0000829224",
+   "name": "STARBUCKS CORP"
+  },
+  "LI": {
+   "cik": "0001791706",
+   "name": "Li Auto Inc."
+  },
+  "CRCL": {
+   "cik": "0001876042",
+   "name": "Circle Internet Group, Inc."
+  },
+  "MCD": {
+   "cik": "0000063908",
+   "name": "MCDONALDS CORP"
+  },
+  "SBET": {
+   "cik": "0001981535",
+   "name": "Sharplink, Inc."
+  },
+  "VRT": {
+   "cik": "0001674101",
+   "name": "Vertiv Holdings Co"
+  },
+  "AMD": {
+   "cik": "0000002488",
+   "name": "ADVANCED MICRO DEVICES INC"
+  },
+  "OPEN": {
+   "cik": "0001801169",
+   "name": "Opendoor Technologies Inc."
+  },
+  "VZ": {
+   "cik": "0000732712",
+   "name": "VERIZON COMMUNICATIONS INC"
+  },
+  "INTC": {
+   "cik": "0000050863",
+   "name": "INTEL CORP"
+  },
+  "WMT": {
+   "cik": "0000104169",
+   "name": "Walmart Inc."
+  },
+  "NVDA": {
+   "cik": "0001045810",
+   "name": "NVIDIA CORP"
+  },
+  "GRAB": {
+   "cik": "0001855612",
+   "name": "Grab Holdings Ltd"
+  },
+  "WULF": {
+   "cik": "0001083301",
+   "name": "TERAWULF INC."
+  },
+  "CMG": {
+   "cik": "0001058090",
+   "name": "CHIPOTLE MEXICAN GRILL INC"
+  },
+  "OKLO": {
+   "cik": "0001849056",
+   "name": "Oklo Inc."
+  },
+  "ASML": {
+   "cik": "0000937966",
+   "name": "ASML HOLDING NV"
+  },
+  "OSCR": {
+   "cik": "0001568651",
+   "name": "Oscar Health, Inc."
+  },
+  "F": {
+   "cik": "0000037996",
+   "name": "FORD MOTOR CO"
+  },
+  "ON": {
+   "cik": "0001097864",
+   "name": "ON SEMICONDUCTOR CORP"
+  },
+  "TLN": {
+   "cik": "0001622536",
+   "name": "Talen Energy Corp"
+  },
+  "TMO": {
+   "cik": "0000097745",
+   "name": "THERMO FISHER SCIENTIFIC INC."
+  },
+  "SMCI": {
+   "cik": "0001375365",
+   "name": "Super Micro Computer, Inc."
+  },
+  "CVNA": {
+   "cik": "0001690820",
+   "name": "CARVANA CO."
+  },
+  "BZ": {
+   "cik": "0001842827",
+   "name": "Kanzhun Ltd"
+  },
+  "TSM": {
+   "cik": "0001046179",
+   "name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD"
+  },
+  "RIOT": {
+   "cik": "0001167419",
+   "name": "Riot Platforms, Inc."
+  },
+  "NIO": {
+   "cik": "0001736541",
+   "name": "NIO Inc."
+  },
+  "TXN": {
+   "cik": "0000097476",
+   "name": "TEXAS INSTRUMENTS INC"
+  },
+  "ADBE": {
+   "cik": "0000796343",
+   "name": "ADOBE INC."
+  },
+  "IAU": {
+   "cik": "0001278680",
+   "name": "ISHARES GOLD TRUST"
+  },
+  "PINS": {
+   "cik": "0001506293",
+   "name": "PINTEREST, INC."
+  },
+  "CRM": {
+   "cik": "0001108524",
+   "name": "Salesforce, Inc."
+  },
+  "LMT": {
+   "cik": "0000936468",
+   "name": "LOCKHEED MARTIN CORP"
+  },
+  "JNJ": {
+   "cik": "0000200406",
+   "name": "JOHNSON & JOHNSON"
+  },
+  "MARA": {
+   "cik": "0001507605",
+   "name": "MARA Holdings, Inc."
+  },
+  "CVX": {
+   "cik": "0000093410",
+   "name": "CHEVRON CORP"
+  },
+  "BABA": {
+   "cik": "0001577552",
+   "name": "Alibaba Group Holding Ltd"
+  },
+  "BAC": {
+   "cik": "0000070858",
+   "name": "BANK OF AMERICA CORP /DE/"
+  },
+  "SO": {
+   "cik": "0000092122",
+   "name": "SOUTHERN CO"
+  },
+  "META": {
+   "cik": "0001326801",
+   "name": "Meta Platforms, Inc."
+  },
+  "AXP": {
+   "cik": "0000004962",
+   "name": "AMERICAN EXPRESS CO"
+  },
+  "ONDS": {
+   "cik": "0001646188",
+   "name": "Ondas Inc."
+  },
+  "GME": {
+   "cik": "0001326380",
+   "name": "GameStop Corp."
+  },
+  "CIFR": {
+   "cik": "0001819989",
+   "name": "Cipher Digital Inc."
+  },
+  "UBER": {
+   "cik": "0001543151",
+   "name": "Uber Technologies, Inc"
+  },
+  "LIN": {
+   "cik": "0001707925",
+   "name": "LINDE PLC"
+  },
+  "BTG": {
+   "cik": "0001429937",
+   "name": "B2GOLD CORP"
+  },
+  "EQIX": {
+   "cik": "0001101239",
+   "name": "EQUINIX INC"
+  },
+  "SCHW": {
+   "cik": "0000316709",
+   "name": "SCHWAB CHARLES CORP"
+  },
+  "CRWD": {
+   "cik": "0001535527",
+   "name": "CrowdStrike Holdings, Inc."
+  },
+  "XYZ": {
+   "cik": "0001512673",
+   "name": "Block, Inc."
+  },
+  "IBM": {
+   "cik": "0000051143",
+   "name": "INTERNATIONAL BUSINESS MACHINES CORP"
+  },
+  "JD": {
+   "cik": "0001549802",
+   "name": "JD.com, Inc."
+  },
+  "NEE": {
+   "cik": "0000753308",
+   "name": "NEXTERA ENERGY INC"
+  },
+  "NOW": {
+   "cik": "0001373715",
+   "name": "ServiceNow, Inc."
+  },
+  "TM": {
+   "cik": "0001094517",
+   "name": "TOYOTA MOTOR CORP/"
+  },
+  "RGTI": {
+   "cik": "0001838359",
+   "name": "Rigetti Computing, Inc."
+  },
+  "APP": {
+   "cik": "0001751008",
+   "name": "AppLovin Corp"
+  },
+  "SOUN": {
+   "cik": "0001840856",
+   "name": "SOUNDHOUND AI, INC."
+  },
+  "DIS": {
+   "cik": "0001744489",
+   "name": "Walt Disney Co"
+  },
+  "ABNB": {
+   "cik": "0001559720",
+   "name": "Airbnb, Inc."
+  },
+  "BA": {
+   "cik": "0000012927",
+   "name": "BOEING CO"
+  },
+  "VST": {
+   "cik": "0001692819",
+   "name": "Vistra Corp."
+  },
+  "SNAP": {
+   "cik": "0001564408",
+   "name": "Snap Inc"
+  },
+  "PDD": {
+   "cik": "0001737806",
+   "name": "PDD Holdings Inc."
+  },
+  "MTZ": {
+   "cik": "0000015615",
+   "name": "MASTEC INC"
+  },
+  "COIN": {
+   "cik": "0001679788",
+   "name": "Coinbase Global, Inc."
+  },
+  "PEP": {
+   "cik": "0000077476",
+   "name": "PEPSICO INC"
+  },
+  "GLD": {
+   "cik": "0001222333",
+   "name": "SPDR GOLD TRUST"
+  },
+  "QCOM": {
+   "cik": "0000804328",
+   "name": "QUALCOMM INC/DE"
+  },
+  "AMGN": {
+   "cik": "0000318154",
+   "name": "AMGEN INC"
+  },
+  "BLSH": {
+   "cik": "0001872195",
+   "name": "Bullish"
+  },
+  "DBC": {
+   "cik": "0001328237",
+   "name": "Invesco DB Commodity Index Tracking Fund"
+  },
+  "KLAC": {
+   "cik": "0000319201",
+   "name": "KLA CORP"
+  },
+  "BTGO": {
+   "cik": "0001740604",
+   "name": "BITGO HOLDINGS, INC."
+  },
+  "IBIT": {
+   "cik": "0001980994",
+   "name": "iShares Bitcoin Trust ETF"
+  },
+  "FSOL": {
+   "cik": "0002063380",
+   "name": "Fidelity Solana Fund"
+  },
+  "ETHA": {
+   "cik": "0002000638",
+   "name": "iShares Ethereum Trust ETF"
+  },
+  "COHR": {
+   "cik": "0000820318",
+   "name": "COHERENT CORP."
+  },
+  "ALB": {
+   "cik": "0000915913",
+   "name": "ALBEMARLE CORP"
+  },
+  "ENPH": {
+   "cik": "0001463101",
+   "name": "Enphase Energy, Inc."
+  },
+  "GLTR": {
+   "cik": "0001483386",
+   "name": "abrdn Precious Metals Basket ETF Trust"
+  },
+  "ETN": {
+   "cik": "0001551182",
+   "name": "Eaton Corp plc"
+  },
+  "ASTS": {
+   "cik": "0001780312",
+   "name": "AST SpaceMobile, Inc."
+  },
+  "GLXY": {
+   "cik": "0001859392",
+   "name": "Galaxy Digital Inc."
+  },
+  "CAPR": {
+   "cik": "0001133869",
+   "name": "CAPRICOR THERAPEUTICS, INC."
+  },
+  "CRWV": {
+   "cik": "0001769628",
+   "name": "CoreWeave, Inc."
+  },
+  "EXOD": {
+   "cik": "0001821534",
+   "name": "Exodus Movement, Inc."
+  },
+  "GEV": {
+   "cik": "0001996810",
+   "name": "GE Vernova Inc."
+  },
+  "ENLV": {
+   "cik": "0001596812",
+   "name": "Enlivex Ltd."
+  },
+  "BNO": {
+   "cik": "0001472494",
+   "name": "United States Brent Oil Fund, LP"
+  },
+  "APLD": {
+   "cik": "0001144879",
+   "name": "Applied Digital Corp."
+  },
+  "FCX": {
+   "cik": "0000831259",
+   "name": "FREEPORT-MCMORAN INC"
+  },
+  "FGDL": {
+   "cik": "0001858258",
+   "name": "Franklin Templeton Holdings Trust"
+  },
+  "IONQ": {
+   "cik": "0001824920",
+   "name": "IonQ, Inc."
+  },
+  "UEC": {
+   "cik": "0001334933",
+   "name": "URANIUM ENERGY CORP"
+  },
+  "VFS": {
+   "cik": "0001913510",
+   "name": "VinFast Auto Ltd."
+  },
+  "UNP": {
+   "cik": "0000100885",
+   "name": "UNION PACIFIC CORP"
+  },
+  "REGN": {
+   "cik": "0000872589",
+   "name": "REGENERON PHARMACEUTICALS, INC."
+  },
+  "PPLT": {
+   "cik": "0001460235",
+   "name": "abrdn Platinum ETF Trust"
+  },
+  "NOC": {
+   "cik": "0001133421",
+   "name": "NORTHROP GRUMMAN CORP /DE/"
+  },
+  "STX": {
+   "cik": "0001137789",
+   "name": "Seagate Technology Holdings plc"
+  },
+  "QUBT": {
+   "cik": "0001758009",
+   "name": "Quantum Computing Inc."
+  },
+  "NBIS": {
+   "cik": "0001513845",
+   "name": "Nebius Group N.V."
+  },
+  "SCCO": {
+   "cik": "0001001838",
+   "name": "SOUTHERN COPPER CORP/"
+  },
+  "WM": {
+   "cik": "0000823768",
+   "name": "WASTE MANAGEMENT INC"
+  },
+  "LUNR": {
+   "cik": "0001844452",
+   "name": "Intuitive Machines, Inc."
+  },
+  "VRTX": {
+   "cik": "0000875320",
+   "name": "VERTEX PHARMACEUTICALS INC / MA"
+  },
+  "SEDG": {
+   "cik": "0001419612",
+   "name": "SOLAREDGE TECHNOLOGIES, INC."
+  },
+  "SNDK": {
+   "cik": "0002023554",
+   "name": "Sandisk Corp"
+  },
+  "WDC": {
+   "cik": "0000106040",
+   "name": "WESTERN DIGITAL CORP"
+  },
+  "RDW": {
+   "cik": "0001819810",
+   "name": "Redwire Corp"
+  },
+  "NEM": {
+   "cik": "0001164727",
+   "name": "NEWMONT Corp /DE/"
+  },
+  "RKLB": {
+   "cik": "0001819994",
+   "name": "Rocket Lab Corp"
+  },
+  "UNG": {
+   "cik": "0001376227",
+   "name": "United States Natural Gas Fund, LP"
+  },
+  "STRC": {
+   "cik": "0001050446",
+   "name": "Strategy Inc"
+  },
+  "BOT": {
+   "cik": "0002081119",
+   "name": "RoboStrategy, Inc."
+  },
+  "LASR": {
+   "cik": "0001124796",
+   "name": "NLIGHT, INC."
+  },
+  "NVT": {
+   "cik": "0001720635",
+   "name": "nVent Electric plc"
+  },
+  "AXTI": {
+   "cik": "0001051627",
+   "name": "AXT INC"
+  },
+  "ARQQ": {
+   "cik": "0001859690",
+   "name": "Arqit Quantum Inc."
+  },
+  "LWLG": {
+   "cik": "0001325964",
+   "name": "Lightwave Logic, Inc."
+  },
+  "AOSL": {
+   "cik": "0001387467",
+   "name": "ALPHA & OMEGA SEMICONDUCTOR Ltd"
+  },
+  "HIMX": {
+   "cik": "0001342338",
+   "name": "Himax Technologies, Inc."
+  },
+  "FORM": {
+   "cik": "0001039399",
+   "name": "FORMFACTOR INC"
+  },
+  "STM": {
+   "cik": "0000932787",
+   "name": "STMicroelectronics N.V."
+  },
+  "AEHR": {
+   "cik": "0001040470",
+   "name": "AEHR TEST SYSTEMS"
+  },
+  "CRDO": {
+   "cik": "0001807794",
+   "name": "Credo Technology Group Holding Ltd"
+  },
+  "NET": {
+   "cik": "0001477333",
+   "name": "Cloudflare, Inc."
+  },
+  "NOK": {
+   "cik": "0000924613",
+   "name": "NOKIA CORP"
+  },
+  "FN": {
+   "cik": "0001408710",
+   "name": "Fabrinet"
+  },
+  "DELL": {
+   "cik": "0001571996",
+   "name": "Dell Technologies Inc."
+  },
+  "CBRS": {
+   "cik": "0002021728",
+   "name": "Cerebras Systems Inc."
+  },
+  "ONTO": {
+   "cik": "0000704532",
+   "name": "ONTO INNOVATION INC."
+  },
+  "HPE": {
+   "cik": "0001645590",
+   "name": "Hewlett Packard Enterprise Co"
+  },
+  "LITE": {
+   "cik": "0001633978",
+   "name": "Lumentum Holdings Inc."
+  },
+  "USAR": {
+   "cik": "0001970622",
+   "name": "USA Rare Earth, Inc."
+  },
+  "ICHR": {
+   "cik": "0001652535",
+   "name": "ICHOR HOLDINGS, LTD."
+  },
+  "MYRG": {
+   "cik": "0000700923",
+   "name": "MYR GROUP INC."
+  },
+  "EQT": {
+   "cik": "0000033213",
+   "name": "EQT Corp"
+  },
+  "MTSI": {
+   "cik": "0001493594",
+   "name": "MACOM Technology Solutions Holdings, Inc."
+  },
+  "PL": {
+   "cik": "0001836833",
+   "name": "Planet Labs PBC"
+  },
+  "MKSI": {
+   "cik": "0001049502",
+   "name": "MKS INC"
+  },
+  "HUBB": {
+   "cik": "0000048898",
+   "name": "HUBBELL INC"
+  },
+  "CAMT": {
+   "cik": "0001109138",
+   "name": "CAMTEK LTD"
+  },
+  "WOLF": {
+   "cik": "0000895419",
+   "name": "WOLFSPEED, INC."
+  },
+  "OUST": {
+   "cik": "0001816581",
+   "name": "Ouster, Inc."
+  },
+  "NNE": {
+   "cik": "0001923891",
+   "name": "Nano Nuclear Energy Inc."
+  },
+  "ALAB": {
+   "cik": "0001736297",
+   "name": "Astera Labs, Inc."
+  },
+  "TER": {
+   "cik": "0000097210",
+   "name": "TERADYNE, INC"
+  },
+  "BE": {
+   "cik": "0001664703",
+   "name": "Bloom Energy Corp"
+  },
+  "GLW": {
+   "cik": "0000024741",
+   "name": "CORNING INC /NY"
+  },
+  "ENTG": {
+   "cik": "0001101302",
+   "name": "ENTEGRIS INC"
+  },
+  "TSEM": {
+   "cik": "0000928876",
+   "name": "TOWER SEMICONDUCTOR LTD"
+  },
+  "SAP": {
+   "cik": "0001000184",
+   "name": "SAP SE"
+  },
+  "WS": {
+   "cik": "0001968487",
+   "name": "Worthington Steel, Inc."
+  },
+  "ATKR": {
+   "cik": "0001666138",
+   "name": "Atkore Inc."
+  },
+  "SMR": {
+   "cik": "0001822966",
+   "name": "NUSCALE POWER Corp"
+  },
+  "ENB": {
+   "cik": "0000895728",
+   "name": "ENBRIDGE INC"
+  },
+  "POWI": {
+   "cik": "0000833640",
+   "name": "POWER INTEGRATIONS INC"
+  },
+  "MXL": {
+   "cik": "0001288469",
+   "name": "MAXLINEAR, INC"
+  },
+  "CIEN": {
+   "cik": "0000936395",
+   "name": "CIENA CORP"
+  },
+  "TEL": {
+   "cik": "0001385157",
+   "name": "TE Connectivity plc"
+  },
+  "FLNC": {
+   "cik": "0001868941",
+   "name": "Fluence Energy, Inc."
+  },
+  "WMB": {
+   "cik": "0000107263",
+   "name": "WILLIAMS COMPANIES, INC."
+  },
+  "AAOI": {
+   "cik": "0001158114",
+   "name": "APPLIED OPTOELECTRONICS, INC."
+  },
+  "SLB": {
+   "cik": "0000087347",
+   "name": "SLB LIMITED/NV"
+  },
+  "APH": {
+   "cik": "0000820313",
+   "name": "AMPHENOL CORP /DE/"
+  },
+  "GFS": {
+   "cik": "0001709048",
+   "name": "GLOBALFOUNDRIES Inc."
+  },
+  "FCEL": {
+   "cik": "0000886128",
+   "name": "FUELCELL ENERGY INC"
+  },
+  "CORZ": {
+   "cik": "0001839341",
+   "name": "Core Scientific, Inc./tx"
+  },
+  "CLF": {
+   "cik": "0000764065",
+   "name": "CLEVELAND-CLIFFS INC."
+  },
+  "MBLY": {
+   "cik": "0001910139",
+   "name": "Mobileye Global Inc."
+  },
+  "TT": {
+   "cik": "0001466258",
+   "name": "Trane Technologies plc"
+  },
+  "CCJ": {
+   "cik": "0001009001",
+   "name": "CAMECO CORP"
+  },
+  "AG": {
+   "cik": "0001308648",
+   "name": "FIRST MAJESTIC SILVER CORP"
+  },
+  "ROK": {
+   "cik": "0001024478",
+   "name": "ROCKWELL AUTOMATION, INC"
+  },
+  "GNRC": {
+   "cik": "0001474735",
+   "name": "GENERAC HOLDINGS INC."
+  },
+  "VCX": {
+   "cik": "0001867090",
+   "name": "Fundrise Innovation Fund, LLC"
+  },
+  "PENG": {
+   "cik": "0001616533",
+   "name": "Penguin Solutions, Inc."
+  },
+  "JBL": {
+   "cik": "0000898293",
+   "name": "JABIL INC"
+  },
+  "PWR": {
+   "cik": "0001050915",
+   "name": "QUANTA SERVICES, INC."
+  },
+  "LPTH": {
+   "cik": "0000889971",
+   "name": "LIGHTPATH TECHNOLOGIES INC"
+  },
+  "POWL": {
+   "cik": "0000080420",
+   "name": "POWELL INDUSTRIES INC"
+  },
+  "UUUU": {
+   "cik": "0001385849",
+   "name": "ENERGY FUELS INC"
+  },
+  "HUT": {
+   "cik": "0001964789",
+   "name": "Hut 8 Corp."
+  },
+  "UMC": {
+   "cik": "0001033767",
+   "name": "UNITED MICROELECTRONICS CORP"
+  },
+  "SWKS": {
+   "cik": "0000004127",
+   "name": "SKYWORKS SOLUTIONS, INC."
+  },
+  "VICR": {
+   "cik": "0000751978",
+   "name": "VICOR CORP"
+  },
+  "AUR": {
+   "cik": "0001828108",
+   "name": "Aurora Innovation, Inc."
+  },
+  "GD": {
+   "cik": "0000040533",
+   "name": "GENERAL DYNAMICS CORP"
+  },
+  "HII": {
+   "cik": "0001501585",
+   "name": "HUNTINGTON INGALLS INDUSTRIES, INC."
+  },
+  "HAL": {
+   "cik": "0000045012",
+   "name": "HALLIBURTON CO"
+  },
+  "VPG": {
+   "cik": "0001487952",
+   "name": "Vishay Precision Group, Inc."
+  },
+  "NVTS": {
+   "cik": "0001821769",
+   "name": "Navitas Semiconductor Corp"
+  },
+  "OII": {
+   "cik": "0000073756",
+   "name": "OCEANEERING INTERNATIONAL INC"
+  },
+  "CLS": {
+   "cik": "0001030894",
+   "name": "CELESTICA INC"
+  },
+  "KOPN": {
+   "cik": "0000771266",
+   "name": "KOPIN CORP"
+  },
+  "DRS": {
+   "cik": "0001833756",
+   "name": "Leonardo DRS, Inc."
+  },
+  "IRDM": {
+   "cik": "0001418819",
+   "name": "Iridium Communications Inc."
+  },
+  "CPER": {
+   "cik": "0001479247",
+   "name": "United States Commodity Index Funds Trust"
+  },
+  "INOD": {
+   "cik": "0000903651",
+   "name": "INNODATA INC"
+  },
+  "HSAI": {
+   "cik": "0001861737",
+   "name": "Hesai Group"
+  },
+  "FLEX": {
+   "cik": "0000866374",
+   "name": "FLEX LTD."
+  },
+  "HLIT": {
+   "cik": "0000851310",
+   "name": "HARMONIC INC."
+  },
+  "FPS": {
+   "cik": "0002080126",
+   "name": "Forgent Power Solutions, Inc."
+  },
+  "WLK": {
+   "cik": "0001262823",
+   "name": "WESTLAKE CORP"
+  },
+  "VSH": {
+   "cik": "0000103730",
+   "name": "VISHAY INTERTECHNOLOGY INC"
+  },
+  "ALOY": {
+   "cik": "0001567900",
+   "name": "REALLOYS INC."
+  },
+  "COHU": {
+   "cik": "0000021535",
+   "name": "COHU INC"
+  },
+  "INSW": {
+   "cik": "0001679049",
+   "name": "International Seaways, Inc."
+  },
+  "AMKR": {
+   "cik": "0001047127",
+   "name": "AMKOR TECHNOLOGY, INC."
+  },
+  "KEYS": {
+   "cik": "0001601046",
+   "name": "Keysight Technologies, Inc."
+  },
+  "BWET": {
+   "cik": "0001610940",
+   "name": "Amplify Commodity Trust"
+  },
+  "TASK": {
+   "cik": "0001829864",
+   "name": "TaskUs, Inc."
+  },
+  "STLD": {
+   "cik": "0001022671",
+   "name": "STEEL DYNAMICS INC"
+  },
+  "VRSN": {
+   "cik": "0001014473",
+   "name": "VERISIGN INC/CA"
+  },
+  "STNG": {
+   "cik": "0001483934",
+   "name": "Scorpio Tankers Inc."
+  },
+  "NUE": {
+   "cik": "0000073309",
+   "name": "NUCOR CORP"
+  },
+  "UAMY": {
+   "cik": "0000101538",
+   "name": "UNITED STATES ANTIMONY CORP"
+  },
+  "LECO": {
+   "cik": "0000059527",
+   "name": "LINCOLN ELECTRIC HOLDINGS INC"
+  },
+  "LSCC": {
+   "cik": "0000855658",
+   "name": "LATTICE SEMICONDUCTOR CORP"
+  },
+  "PRIM": {
+   "cik": "0001361538",
+   "name": "Primoris Services Corp"
+  },
+  "HIVE": {
+   "cik": "0001720424",
+   "name": "HIVE Digital Technologies Ltd."
+  },
+  "TEN": {
+   "cik": "0001166663",
+   "name": "TSAKOS ENERGY NAVIGATION LTD"
+  },
+  "TNK": {
+   "cik": "0001419945",
+   "name": "TEEKAY TANKERS LTD."
+  },
+  "ACLS": {
+   "cik": "0001113232",
+   "name": "AXCELIS TECHNOLOGIES INC"
+  },
+  "SYM": {
+   "cik": "0001837240",
+   "name": "Symbotic Inc."
+  },
+  "AME": {
+   "cik": "0001037868",
+   "name": "AMETEK INC/"
+  },
+  "EXTR": {
+   "cik": "0001078271",
+   "name": "EXTREME NETWORKS INC"
+  },
+  "AIP": {
+   "cik": "0001667011",
+   "name": "Arteris, Inc."
+  },
+  "WYFI": {
+   "cik": "0002042022",
+   "name": "WhiteFiber, Inc."
+  },
+  "AAON": {
+   "cik": "0000824142",
+   "name": "AAON, INC."
+  },
+  "KEEL": {
+   "cik": "0001812477",
+   "name": "Keel Infrastructure Corp."
+  },
+  "NAT": {
+   "cik": "0001000177",
+   "name": "NORDIC AMERICAN TANKERS Ltd"
+  },
+  "TTMI": {
+   "cik": "0001116942",
+   "name": "TTM TECHNOLOGIES INC"
+  },
+  "RMBS": {
+   "cik": "0000917273",
+   "name": "RAMBUS INC"
+  },
+  "ECO": {
+   "cik": "0001964954",
+   "name": "Okeanis Eco Tankers Corp."
+  },
+  "MEI": {
+   "cik": "0000065270",
+   "name": "METHODE ELECTRONICS INC"
+  },
+  "UCTT": {
+   "cik": "0001275014",
+   "name": "Ultra Clean Holdings, Inc."
+  },
+  "BTDR": {
+   "cik": "0001899123",
+   "name": "Bitdeer Technologies Group"
+  },
+  "CEVA": {
+   "cik": "0001173489",
+   "name": "CEVA INC"
+  },
+  "NVMI": {
+   "cik": "0001109345",
+   "name": "NOVA LTD."
+  },
+  "ACMR": {
+   "cik": "0001680062",
+   "name": "ACM Research, Inc."
+  },
+  "DGXX": {
+   "cik": "0001854368",
+   "name": "Digi Power X Inc."
+  },
+  "EMR": {
+   "cik": "0000032604",
+   "name": "EMERSON ELECTRIC CO"
+  },
+  "WCC": {
+   "cik": "0000929008",
+   "name": "WESCO INTERNATIONAL INC"
+  },
+  "SATA": {
+   "cik": "0001920406",
+   "name": "Strive, Inc."
+  },
+  "PURR": {
+   "cik": "0002078856",
+   "name": "Hyperliquid Strategies Inc"
+  },
+  "AMBR": {
+   "cik": "0001697818",
+   "name": "Amber International Holding Ltd"
+  },
+  "AZN": {
+   "cik": "0000901832",
+   "name": "ASTRAZENECA PLC"
+  },
+  "BTBT": {
+   "cik": "0001710350",
+   "name": "Bit Digital, Inc"
+  },
+  "CLSK": {
+   "cik": "0000827876",
+   "name": "CLEANSPARK, INC."
+  },
+  "CMCSA": {
+   "cik": "0001166691",
+   "name": "COMCAST CORP"
+  },
+  "DFDV": {
+   "cik": "0001805526",
+   "name": "DeFi Development Corp."
+  },
+  "DHR": {
+   "cik": "0000313616",
+   "name": "DANAHER CORP /DE/"
+  },
+  "ENHA": {
+   "cik": "0001956439",
+   "name": "Enhanced Group Inc."
+  },
+  "HON": {
+   "cik": "0000773840",
+   "name": "HONEYWELL INTERNATIONAL INC"
+  },
+  "LNG": {
+   "cik": "0000003570",
+   "name": "Cheniere Energy, Inc."
+  },
+  "MDLN": {
+   "cik": "0002046386",
+   "name": "Medline Inc."
+  },
+  "MDT": {
+   "cik": "0001613103",
+   "name": "Medtronic plc"
+  },
+  "PM": {
+   "cik": "0001413329",
+   "name": "Philip Morris International Inc."
+  },
+  "RBLX": {
+   "cik": "0001315098",
+   "name": "Roblox Corp"
+  },
+  "RCAT": {
+   "cik": "0000748268",
+   "name": "Red Cat Holdings, Inc."
+  },
+  "SPCE": {
+   "cik": "0001706946",
+   "name": "Virgin Galactic Holdings, Inc"
+  },
+  "STRK": {
+   "cik": "0001050446",
+   "name": "Strategy Inc"
+  },
+  "TONX": {
+   "cik": "0001566610",
+   "name": "TON Strategy Co"
+  },
+  "VIDA": {
+   "cik": "0001973062",
+   "name": "VIDA Global Inc."
+  },
+  "WBD": {
+   "cik": "0001437107",
+   "name": "Warner Bros. Discovery, Inc."
+  },
+  "SPCX": {
+   "cik": "0001181412",
+   "name": "SPACE EXPLORATION TECHNOLOGIES CORP"
+  },
+  "SKHY": {
+   "cik": "0002120882",
+   "name": "SK hynix Inc."
+  },
+  "QNT": {
+   "cik": "0002110105",
+   "name": "Quantinuum Inc."
+  },
+  "DJT": {
+   "cik": "0001849635",
+   "name": "Trump Media & Technology Group Corp."
+  },
+  "AI": {
+   "cik": "0001577526",
+   "name": "C3.ai, Inc."
+  },
+  "RXRX": {
+   "cik": "0001601830",
+   "name": "RECURSION PHARMACEUTICALS, INC."
+  },
+  "WEN": {
+   "cik": "0000030697",
+   "name": "Wendy's Co"
+  },
+  "HTZ": {
+   "cik": "0001657853",
+   "name": "HERTZ GLOBAL HOLDINGS, INC"
+  },
+  "GOOG": {
+   "cik": "0001652044",
+   "name": "Alphabet Inc."
+  },
+  "BNC": {
+   "cik": "0001482541",
+   "name": "BNB Standard Corp"
+  },
+  "GPRO": {
+   "cik": "0001500435",
+   "name": "GoPro, Inc."
+  },
+  "CYPH": {
+   "cik": "0001509745",
+   "name": "CYPHERPUNK TECHNOLOGIES INC."
+  },
+  "AGPU": {
+   "cik": "0001446159",
+   "name": "Axe Compute Inc."
+  },
+  "ZM": {
+   "cik": "0001585521",
+   "name": "Zoom Communications, Inc."
+  },
+  "SHAZ": {
+   "cik": "0002068385",
+   "name": "SharonAI Holdings Inc."
+  },
+  "FWDI": {
+   "cik": "0000038264",
+   "name": "Forward Industries, Inc."
+  }
+ },
+ "unmatched": [
+  "EEM",
+  "AGG",
+  "QQQ",
+  "HYG",
+  "IVV",
+  "VTI",
+  "IJH",
+  "SQQQ",
+  "DGRW",
+  "IEMG",
+  "TIP",
+  "PSQ",
+  "EFA",
+  "IWF",
+  "CLOA",
+  "IWM",
+  "JAAA",
+  "IEFA",
+  "BINC",
+  "SGOV",
+  "REMX",
+  "VTV",
+  "PDBC",
+  "ITOT",
+  "CLOI",
+  "NIKL",
+  "TQQQ",
+  "FTGC",
+  "COPX",
+  "USFR",
+  "IWN",
+  "TLT",
+  "IEF",
+  "EWZ",
+  "EWJ",
+  "INCE",
+  "FLQL",
+  "HYS",
+  "FFOG",
+  "ECH",
+  "INDA",
+  "FLHY",
+  "FXI",
+  "CIBR",
+  "EWY",
+  "PAVE",
+  "KWEB",
+  "OIH",
+  "VNQ",
+  "URA",
+  "ITA",
+  "SOXX",
+  "SHY",
+  "QTUM",
+  "IALT",
+  "BRHY",
+  "URNM",
+  "BRTR",
+  "BRLN",
+  "INRO",
+  "BAI",
+  "DYNF",
+  "QLTA",
+  "BLCR",
+  "CORO",
+  "VDE",
+  "IGEB",
+  "SOXS",
+  "SOXQ",
+  "SOXL",
+  "IGV",
+  "BKCH",
+  "DRAM",
+  "QYLD",
+  "SHLD",
+  "IJS",
+  "ARGT",
+  "XYLD",
+  "YEAR",
+  "IYW",
+  "IEI",
+  "BOTZ",
+  "SIL",
+  "IDEF",
+  "EUHY",
+  "BIL",
+  "ORBX",
+  "LEMB",
+  "LIT",
+  "AIQ",
+  "EFV",
+  "GGOV",
+  "DTCR",
+  "BITX",
+  "BRK.B",
+  "DAX",
+  "EWG",
+  "EWQ",
+  "EWU",
+  "FAAA",
+  "FEZ",
+  "FLBL",
+  "FLQM",
+  "FSML",
+  "GDX",
+  "IJR",
+  "IQM",
+  "JPST",
+  "NLR",
+  "SCHF",
+  "TBLL",
+  "USPX",
+  "VOO",
+  "VT",
+  "YLDE",
+  "KORU",
+  "MUU",
+  "MVLL",
+  "SNXX",
+  "INTW",
+  "HYGW",
+  "SYSB",
+  "SECU",
+  "SMH",
+  "USDY",
+  "MAG7X",
+  "KLSH",
+  "OPENAI",
+  "HYDB",
+  "NEAR",
+  "USHY",
+  "BLKDIG",
+  "BRAIN",
+  "BLKHI",
+  "YLD8",
+  "BLKGRW",
+  "YLD5",
+  "POLYMARKET",
+  "POPMT",
+  "TCENT"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "ORCL-2026-11-18",
+ "ticker": "ORCL",
+ "cik": "0001341439",
+ "company": "ORACLE CORP",
+ "status": "open",
+ "recordDate": "2026-09-21",
+ "recordCutoff": "2026-09-21T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "123241401",
+ "recordBlockTimestamp": "2026-09-21T20:00:00.000Z",
+ "meetingDate": "2026-11-18",
+ "closeAt": "2026-11-18T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-09-25",
+  "accession": "0001193125-26-402816",
+  "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "ELECTION OF DIRECTORS",
+   "quote": "PROPOSAL NO. 1: ELECTION OF DIRECTORS",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "say_on_pay",
+   "text": "ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS",
+   "quote": "PROPOSAL NO. 2: ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "auditor",
+   "text": "RATIFICATION OF THE SELECTION OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+   "quote": "PROPOSAL NO. 3: RATIFICATION OF THE SELECTION OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "4",
+   "kind": "shareholder",
+   "text": "STOCKHOLDER PROPOSAL REGARDING PRESERVATION OF SHAREHOLDER PROPOSAL ACCESS RIGHTS",
+   "quote": "PROPOSAL NO. 4: STOCKHOLDER PROPOSAL REGARDING PRESERVATION OF SHAREHOLDER PROPOSAL ACCESS RIGHTS",
+   "boardRec": "AGAINST"
+  }
+ ]
+}

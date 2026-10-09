@@ -1,0 +1,37 @@
+{
+ "id": "MSTR-2026-10-28",
+ "ticker": "MSTR",
+ "cik": "0001050446",
+ "company": "Strategy Inc",
+ "status": "open",
+ "recordDate": "2026-09-25",
+ "recordCutoff": "2026-09-25T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "124009118",
+ "recordBlockTimestamp": "2026-09-25T20:00:00.000Z",
+ "meetingDate": "2026-10-28",
+ "closeAt": "2026-10-28T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-10-05",
+  "accession": "0001193125-26-413159",
+  "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413159/d503578ddef14a.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "other",
+   "text": "APPROVAL AND ADOPTION OF AN AMENDED AND RESTATED CERTIFICATE OF DESIGNATIONS FOR EACH OF THE COMPANY'S 10.00% SERIES A PERPETUAL STRIFE PREF",
+   "quote": "PROPOSAL 1-APPROVAL AND ADOPTION OF AN AMENDED AND RESTATED CERTIFICATE OF DESIGNATIONS FOR EACH OF THE COMPANY'S 10.00% SERIES A PERPETUAL STRIFE PREF",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "other",
+   "text": "APPROVE ONE OR MORE ADJOURNMENTS OF THE SPECIAL MEETING FROM TIME TO TIME IF NECESSARY TO SOLICIT ADDITIONAL PROXIES IF THERE ARE INSUFFICIE",
+   "quote": "PROPOSAL 2-APPROVE ONE OR MORE ADJOURNMENTS OF THE SPECIAL MEETING FROM TIME TO TIME IF NECESSARY TO SOLICIT ADDITIONAL PROXIES IF THERE ARE INSUFFICIE",
+   "boardRec": "FOR"
+  }
+ ]
+}

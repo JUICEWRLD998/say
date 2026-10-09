@@ -1,0 +1,16 @@
+[
+ {
+  "symbol": "PGon",
+  "address": "0x400f1e257f86d25578a0928c94dc95115f09d5c9",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.025304000727182209"
+ },
+ {
+  "symbol": "PGx",
+  "address": "0xa90424d5d3e770e8644103ab503ed775dd1318fd",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ }
+]

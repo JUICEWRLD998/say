@@ -16,6 +16,8 @@
     "recount": "node scripts/recount.mjs fixtures/meetings/synthetic-2026",
     "recount:control": "node scripts/recount.mjs fixtures/meetings/synthetic-2026 --control",
     "edgar:scan": "node scripts/edgar-scan.mjs",
-    "edgar:parse": "node scripts/edgar-parse.mjs"
+    "edgar:parse": "node scripts/edgar-parse.mjs",
+    "bsc:test": "node scripts/bsc-test.mjs",
+    "ballots:open": "node scripts/open-ballots.mjs"
   }
 }

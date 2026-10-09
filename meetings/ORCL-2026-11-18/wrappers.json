@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "ORCLB",
+  "address": "0x4684d9887fc1c71cba7bab8e88835cec217eb598",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ },
+ {
+  "symbol": "ORCLon",
+  "address": "0x03e4bd1ea53f1da84513da0319d1f03dd1bbcf93",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.0079328914586566"
+ },
+ {
+  "symbol": "ORCLx",
+  "address": "0x548308e91ec9f285c7bff05295badbd56a6e4971",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ }
+]

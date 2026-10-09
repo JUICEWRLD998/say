@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "MSTRB",
+  "address": "0xe87afb3076aeb0f9b14e368de8145ae6a2826a14",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.000000000000000000"
+ },
+ {
+  "symbol": "MSTRon",
+  "address": "0x7313ea16493b2f55054df0131a3a14b043ec8992",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ },
+ {
+  "symbol": "MSTRx",
+  "address": "0xae2f842ef90c0d5213259ab82639d5bbf649b08e",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ }
+]

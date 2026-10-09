@@ -1,0 +1,65 @@
+{
+ "id": "PG-2026-10-13",
+ "ticker": "PG",
+ "cik": "0000080424",
+ "company": "PROCTER & GAMBLE Co",
+ "status": "open",
+ "recordDate": "2026-08-14",
+ "recordCutoff": "2026-08-14T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "115948706",
+ "recordBlockTimestamp": "2026-08-14T20:00:00.000Z",
+ "meetingDate": "2026-10-13",
+ "closeAt": "2026-10-13T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-08-28",
+  "accession": "0001193125-26-372211",
+  "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312526372211/pg-20260826.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "Election of Directors",
+   "quote": "ITEM 1 : Election of Directors",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "auditor",
+   "text": "Ratify Appointment of the Independent Registered Public Accounting Firm",
+   "quote": "Item 2. Ratify Appointment of the Independent Registered Public Accounting Firm",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "say_on_pay",
+   "text": "Advisory Vote on Executive Compensation",
+   "quote": "ITEM 3: Advisory Vote on Executive Compensation",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "4",
+   "kind": "shareholder",
+   "text": "SHAREHOLDER PROPOSAL REQUESTING LOWER THRESHOLD FOR SPECIAL MEETINGS The Accountability Board, Inc., whose address and shareholdings are ava",
+   "quote": "ITEM 4. SHAREHOLDER PROPOSAL REQUESTING LOWER THRESHOLD FOR SPECIAL MEETINGS The Accountability Board, Inc., whose address and shareholdings are ava",
+   "boardRec": "AGAINST"
+  },
+  {
+   "id": "5",
+   "kind": "shareholder",
+   "text": "SHAREHOLDER PROPOSAL REQUESTING POLICY ON ELIGIBILITY THRESHOLDS FOR PROPONENTS OF SHAREHOLDER PROPOSALS The National Legal and Policy Cente",
+   "quote": "ITEM 5. SHAREHOLDER PROPOSAL REQUESTING POLICY ON ELIGIBILITY THRESHOLDS FOR PROPONENTS OF SHAREHOLDER PROPOSALS The National Legal and Policy Cente",
+   "boardRec": "AGAINST"
+  },
+  {
+   "id": "6",
+   "kind": "shareholder",
+   "text": "SHAREHOLDER PROPOSAL REQUESTING ANNUAL REPORTING ON CHARITABLE CONTRIBUTIONS The Bahnsen Family Trust, whose address and shareholdings are a",
+   "quote": "ITEM 6. SHAREHOLDER PROPOSAL REQUESTING ANNUAL REPORTING ON CHARITABLE CONTRIBUTIONS The Bahnsen Family Trust, whose address and shareholdings are a",
+   "boardRec": "AGAINST"
+  }
+ ]
+}

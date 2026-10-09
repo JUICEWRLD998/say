@@ -1,0 +1,44 @@
+{
+ "id": "SNDK-2026-11-17",
+ "ticker": "SNDK",
+ "cik": "0002023554",
+ "company": "Sandisk Corp",
+ "status": "open",
+ "recordDate": "2026-09-21",
+ "recordCutoff": "2026-09-21T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "123241401",
+ "recordBlockTimestamp": "2026-09-21T20:00:00.000Z",
+ "meetingDate": "2026-11-17",
+ "closeAt": "2026-11-17T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-10-06",
+  "accession": "0001308179-26-000423",
+  "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000423/sndk-20261005.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "Election of Directors",
+   "quote": "Proposal 1: Election of Directors",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "say_on_pay",
+   "text": "Advisory Vote on Named Executive Officer Compensation",
+   "quote": "Proposal 2: Advisory Vote on Named Executive Officer Compensation",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "auditor",
+   "text": "Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+   "quote": "Proposal 3 : Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+   "boardRec": "FOR"
+  }
+ ]
+}

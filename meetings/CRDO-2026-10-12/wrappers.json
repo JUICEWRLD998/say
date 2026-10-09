@@ -1,0 +1,16 @@
+[
+ {
+  "symbol": "CRDOB",
+  "address": "0x6e7d451f9d30327d32020f116fa79c23b24e9c8d",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ },
+ {
+  "symbol": "CRDOon",
+  "address": "0xf157481bebd0c0686780fd0f61806c900a6137e8",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ }
+]

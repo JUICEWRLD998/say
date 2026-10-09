@@ -1,0 +1,16 @@
+[
+ {
+  "symbol": "WDCB",
+  "address": "0xebe29695f8047c13d36e7a790ca8c1b239ffad1c",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.000224983929808861"
+ },
+ {
+  "symbol": "WDCon",
+  "address": "0xceb29848d04ad3cb46e1fe8e45b82ffac39d797d",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.00040472067533532"
+ }
+]

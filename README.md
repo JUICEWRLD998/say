@@ -4,7 +4,7 @@ Own the share. Have your say.
 
 Tokenized stocks give you the price but take away your vote. Say reads each proxy statement for the companies you hold on BNB Chain, marks your ballot by a policy you chose, and signs it with your Agentic Wallet. The tally is weighted by on-chain shares at the company's record date, and anyone can recount it.
 
-Status: Phase 2 (EDGAR watcher and proxy parser). Work in progress for BNB Hack, Tokenized Stocks Edition.
+Status: Phase 3 in progress (ballots open with record blocks; signing and real weights need a wallet login and an archive RPC key). Work in progress for BNB Hack, Tokenized Stocks Edition.
 
 By Mustapha Fadhlullah, independent security researcher.
 
@@ -14,6 +14,8 @@ By Mustapha Fadhlullah, independent security researcher.
 - `packages/proxy`: proxy text to a structured meeting, then seven deterministic checks. Pure, no network.
 - `scripts/edgar-scan.mjs`: watcher. Lists DEF 14A and DEFA14A filings for every BSC ticker with an SEC filer and reports what is new.
 - `scripts/edgar-parse.mjs`: parses each DEF 14A and writes the meeting calendar `fixtures/edgar/meetings.json`.
+- `scripts/bsc.mjs`: timestamp to BSC block (`pnpm bsc:test`). `scripts/open-ballots.mjs`: writes `meetings/<TICKER>-<meetingDate>/` for each ready meeting.
+- `meetings/`: the public record. 10 open ballots with record blocks resolved from 16:00 ET on the record date.
 - `fixtures/edgar/gold/`: hand-checked expected output for 10 real filings. `fixtures/edgar/text/`: the filing text they are checked against.
 
 ## Proxy parser: what is trusted

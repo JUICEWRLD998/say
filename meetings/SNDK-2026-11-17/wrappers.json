@@ -1,0 +1,16 @@
+[
+ {
+  "symbol": "SNDKB",
+  "address": "0x3ee4df61bd4f867e349beae8bfe07bc31b4850fb",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.000000000000000000"
+ },
+ {
+  "symbol": "SNDKon",
+  "address": "0x4fd67cb8cfedc718bac984b5936abe3330d0a2a4",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ }
+]

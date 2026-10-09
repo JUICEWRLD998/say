@@ -1,0 +1,44 @@
+{
+ "id": "CRDO-2026-10-12",
+ "ticker": "CRDO",
+ "cik": "0001807794",
+ "company": "Credo Technology Group Holding Ltd",
+ "status": "open",
+ "recordDate": "2026-08-20",
+ "recordCutoff": "2026-08-20T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "117100403",
+ "recordBlockTimestamp": "2026-08-20T20:00:00.000Z",
+ "meetingDate": "2026-10-12",
+ "closeAt": "2026-10-12T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-08-25",
+  "accession": "0001628280-26-058936",
+  "url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026058936/crdo-20260825.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "Election of Three Class II Directors",
+   "quote": "Proposal No. 1: Election of Three Class II Directors",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "say_on_pay",
+   "text": "Advisory Vote on Compensation of Named Executive Officers",
+   "quote": "Proposal No. 2: Advisory Vote on Compensation of Named Executive Officers",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "auditor",
+   "text": "Ratification of Selection of Independent Registered Public Accounting Firm",
+   "quote": "Proposal No. 3: Ratification of Selection of Independent Registered Public Accounting Firm",
+   "boardRec": "FOR"
+  }
+ ]
+}

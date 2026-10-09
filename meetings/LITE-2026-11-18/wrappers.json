@@ -1,0 +1,16 @@
+[
+ {
+  "symbol": "LITEB",
+  "address": "0x64748bea17b6d19e242adf20425de2440c656142",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1.000000000000000000"
+ },
+ {
+  "symbol": "LITEon",
+  "address": "0x0facafb97ffdba3cae88512070af49bd30674cd9",
+  "chainId": 56,
+  "decimals": 18,
+  "multiplier": "1"
+ }
+]

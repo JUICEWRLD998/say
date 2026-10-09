@@ -1,0 +1,44 @@
+{
+ "id": "AEHR-2026-10-19",
+ "ticker": "AEHR",
+ "cik": "0001040470",
+ "company": "AEHR TEST SYSTEMS",
+ "status": "open",
+ "recordDate": "2026-08-27",
+ "recordCutoff": "2026-08-27T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "118443844",
+ "recordBlockTimestamp": "2026-08-27T20:00:00.000Z",
+ "meetingDate": "2026-10-19",
+ "closeAt": "2026-10-19T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-09-09",
+  "accession": "0001654954-26-008222",
+  "url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426008222/aehr_def14a.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "ELECTION OF DIRECTORS",
+   "quote": "PROPOSAL 1: ELECTION OF DIRECTORS",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "auditor",
+   "text": "RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+   "quote": "PROPOSAL 2: RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "say_on_pay",
+   "text": "APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION OF THE COMPANY'S NAMED EXECUTIVE OFFICERS",
+   "quote": "PROPOSAL 3: APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION OF THE COMPANY'S NAMED EXECUTIVE OFFICERS",
+   "boardRec": "FOR"
+  }
+ ]
+}

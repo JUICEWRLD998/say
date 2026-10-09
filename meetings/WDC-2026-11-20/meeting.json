@@ -1,0 +1,44 @@
+{
+ "id": "WDC-2026-11-20",
+ "ticker": "WDC",
+ "cik": "0000106040",
+ "company": "WESTERN DIGITAL CORP",
+ "status": "open",
+ "recordDate": "2026-09-22",
+ "recordCutoff": "2026-09-22T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "123433326",
+ "recordBlockTimestamp": "2026-09-22T20:00:00.000Z",
+ "meetingDate": "2026-11-20",
+ "closeAt": "2026-11-20T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-10-05",
+  "accession": "0001628280-26-064909",
+  "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026064909/wdc-20261005.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "Election of Directors",
+   "quote": "PROPOSAL 1: Election of Directors",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "say_on_pay",
+   "text": "Advisory Vote on Named Executive Officer Compensation",
+   "quote": "PROPOSAL 2: Advisory Vote on Named Executive Officer Compensation",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "auditor",
+   "text": "Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+   "quote": "PROPOSAL 3 : Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+   "boardRec": "FOR"
+  }
+ ]
+}

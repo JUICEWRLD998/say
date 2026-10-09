@@ -1,0 +1,65 @@
+{
+ "id": "MDT-2026-10-15",
+ "ticker": "MDT",
+ "cik": "0001613103",
+ "company": "Medtronic plc",
+ "status": "open",
+ "recordDate": "2026-08-21",
+ "recordCutoff": "2026-08-21T20:00:00.000Z",
+ "recordCutoffRule": "16:00 America/New_York on the record date (close of business assumed; the filing is not parsed for a time)",
+ "recordBlock": "117292336",
+ "recordBlockTimestamp": "2026-08-21T20:00:00.000Z",
+ "meetingDate": "2026-10-15",
+ "closeAt": "2026-10-15T00:00:00.000Z",
+ "closeBlock": null,
+ "filing": {
+  "form": "DEF 14A",
+  "filingDate": "2026-08-17",
+  "accession": "0001613103-26-000010",
+  "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000010/mdt-20260816.htm"
+ },
+ "proposals": [
+  {
+   "id": "1",
+   "kind": "director_election",
+   "text": "Election of Directors",
+   "quote": "PROPOSAL 1 Election of Directors",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "2",
+   "kind": "auditor",
+   "text": "Ratifying the Appointment of Independent Auditor and Authorizing the Audit Committee to Set Auditor Remuneration",
+   "quote": "PROPOSAL 2 Ratifying the Appointment of Independent Auditor and Authorizing the Audit Committee to Set Auditor Remuneration",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "3",
+   "kind": "say_on_pay",
+   "text": "Advisory Resolution to Approve Named Executive Officer Compensation (Say-On-Pay)",
+   "quote": "PROPOSAL 3 Advisory Resolution to Approve Named Executive Officer Compensation (Say-On-Pay)",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "4",
+   "kind": "other",
+   "text": "Renewal of the Board's Authority to Issue Shares Under Irish Law",
+   "quote": "PROPOSAL 4 Renewal of the Board's Authority to Issue Shares Under Irish Law",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "5",
+   "kind": "other",
+   "text": "Renewal of the Board Authority to Opt Out of Statutory Pre-Emption Rights Under Irish Law",
+   "quote": "PROPOSAL 5 Renewal of the Board Authority to Opt Out of Statutory Pre-Emption Rights Under Irish Law",
+   "boardRec": "FOR"
+  },
+  {
+   "id": "6",
+   "kind": "other",
+   "text": "Authorization of the Company and Any Subsidiary of the Company to Make Overseas Market Purchases of Medtronic Ordinary Shares",
+   "quote": "PROPOSAL 6 Authorization of the Company and Any Subsidiary of the Company to Make Overseas Market Purchases of Medtronic Ordinary Shares",
+   "boardRec": "FOR"
+  }
+ ]
+}

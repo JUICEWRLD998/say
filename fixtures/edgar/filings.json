@@ -1,0 +1,1096 @@
+{
+ "since": "2026-07-15",
+ "scannedCiks": 377,
+ "unmatchedTickers": 140,
+ "errors": [],
+ "filings": [
+  {
+   "cik": "0000080424",
+   "company": "PROCTER & GAMBLE Co",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-07",
+   "accession": "0000080424-26-000212",
+   "primaryDocument": "additionalmaterialreitem5.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000212/additionalmaterialreitem5.htm",
+   "tickers": [
+    "PG"
+   ]
+  },
+  {
+   "cik": "0002023554",
+   "company": "Sandisk Corp",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-06",
+   "accession": "0001308179-26-000424",
+   "primaryDocument": "a2026sandiskdefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000424/a2026sandiskdefa14a.htm",
+   "tickers": [
+    "SNDK"
+   ]
+  },
+  {
+   "cik": "0002023554",
+   "company": "Sandisk Corp",
+   "form": "DEF 14A",
+   "filingDate": "2026-10-06",
+   "accession": "0001308179-26-000423",
+   "primaryDocument": "sndk-20261005.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000423/sndk-20261005.htm",
+   "tickers": [
+    "SNDK"
+   ]
+  },
+  {
+   "cik": "0001633978",
+   "company": "Lumentum Holdings Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-06",
+   "accession": "0001308179-26-000421",
+   "primaryDocument": "lite2026-defa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817926000421/lite2026-defa14a.htm",
+   "tickers": [
+    "LITE"
+   ]
+  },
+  {
+   "cik": "0001633978",
+   "company": "Lumentum Holdings Inc.",
+   "form": "DEF 14A",
+   "filingDate": "2026-10-06",
+   "accession": "0001308179-26-000420",
+   "primaryDocument": "lite2026-def14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817926000420/lite2026-def14a.htm",
+   "tickers": [
+    "LITE"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-414480",
+   "primaryDocument": "mstr-20261005.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526414480/mstr-20261005.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-413171",
+   "primaryDocument": "mstr-20261005.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413171/mstr-20261005.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEF 14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-413159",
+   "primaryDocument": "d503578ddef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413159/d503578ddef14a.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0000106040",
+   "company": "WESTERN DIGITAL CORP",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001628280-26-064914",
+   "primaryDocument": "a2026wdnoticeaccess.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026064914/a2026wdnoticeaccess.htm",
+   "tickers": [
+    "WDC"
+   ]
+  },
+  {
+   "cik": "0000106040",
+   "company": "WESTERN DIGITAL CORP",
+   "form": "DEF 14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001628280-26-064909",
+   "primaryDocument": "wdc-20261005.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026064909/wdc-20261005.htm",
+   "tickers": [
+    "WDC"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEF 14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-413189",
+   "primaryDocument": "d79728ddef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526413189/d79728ddef14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-413181",
+   "primaryDocument": "d123485ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526413181/d123485ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-02",
+   "accession": "0001104659-26-113290",
+   "primaryDocument": "tm2626870d2_defa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0002078856",
+   "company": "Hyperliquid Strategies Inc",
+   "form": "DEF 14A",
+   "filingDate": "2026-10-02",
+   "accession": "0001193125-26-412569",
+   "primaryDocument": "d290166ddef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526412569/d290166ddef14a.htm",
+   "tickers": [
+    "PURR"
+   ]
+  },
+  {
+   "cik": "0000886982",
+   "company": "GOLDMAN SACHS GROUP INC",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-01",
+   "accession": "0001193125-26-410742",
+   "primaryDocument": "vip_14a-12_launch_no_xbr.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526410742/vip_14a-12_launch_no_xbr.htm",
+   "tickers": [
+    "GS"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-01",
+   "accession": "0001193125-26-409866",
+   "primaryDocument": "mstr-20261001.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526409866/mstr-20261001.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001097864",
+   "company": "ON SEMICONDUCTOR CORP",
+   "form": "DEFA14A",
+   "filingDate": "2026-10-01",
+   "accession": "0001140361-26-038297",
+   "primaryDocument": "ef20083030_formdefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm",
+   "tickers": [
+    "ON"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-30",
+   "accession": "0001193125-26-409242",
+   "primaryDocument": "mstr-20260930.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526409242/mstr-20260930.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001387467",
+   "company": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-30",
+   "accession": "0001628280-26-063964",
+   "primaryDocument": "aosdefinitiveproxystatemen.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1387467/000162828026063964/aosdefinitiveproxystatemen.htm",
+   "tickers": [
+    "AOSL"
+   ]
+  },
+  {
+   "cik": "0001387467",
+   "company": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-30",
+   "accession": "0001628280-26-063962",
+   "primaryDocument": "aosl-20260930.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1387467/000162828026063962/aosl-20260930.htm",
+   "tickers": [
+    "AOSL"
+   ]
+  },
+  {
+   "cik": "0001666138",
+   "company": "Atkore Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-30",
+   "accession": "0001666138-26-000035",
+   "primaryDocument": "defa14amds20260930.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1666138/000166613826000035/defa14amds20260930.htm",
+   "tickers": [
+    "ATKR"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-29",
+   "accession": "0001193125-26-407758",
+   "primaryDocument": "mstr-20260929.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526407758/mstr-20260929.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-28",
+   "accession": "0001193125-26-405530",
+   "primaryDocument": "mstr-20260928.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526405530/mstr-20260928.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-28",
+   "accession": "0001193125-26-403425",
+   "primaryDocument": "mstr-20260928.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526403425/mstr-20260928.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001341439",
+   "company": "ORACLE CORP",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-25",
+   "accession": "0001193125-26-402831",
+   "primaryDocument": "orcl-defa14a-2026_notice.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402831/orcl-defa14a-2026_notice.htm",
+   "tickers": [
+    "ORCL"
+   ]
+  },
+  {
+   "cik": "0001341439",
+   "company": "ORACLE CORP",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-25",
+   "accession": "0001193125-26-402816",
+   "primaryDocument": "orcl-20260925.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm",
+   "tickers": [
+    "ORCL"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-25",
+   "accession": "0001193125-26-402937",
+   "primaryDocument": "mstr-20260925.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001050446",
+   "company": "Strategy Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-25",
+   "accession": "0001193125-26-402802",
+   "primaryDocument": "mstr-20260925.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/mstr-20260925.htm",
+   "tickers": [
+    "MSTR",
+    "STRC",
+    "STRK"
+   ]
+  },
+  {
+   "cik": "0001144879",
+   "company": "Applied Digital Corp.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-25",
+   "accession": "0001493152-26-044328",
+   "primaryDocument": "formdefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226044328/formdefa14a.htm",
+   "tickers": [
+    "APLD"
+   ]
+  },
+  {
+   "cik": "0001144879",
+   "company": "Applied Digital Corp.",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-25",
+   "accession": "0001493152-26-044325",
+   "primaryDocument": "formdef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226044325/formdef14a.htm",
+   "tickers": [
+    "APLD"
+   ]
+  },
+  {
+   "cik": "0000707549",
+   "company": "LAM RESEARCH CORP",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-24",
+   "accession": "0001140361-26-037565",
+   "primaryDocument": "ef20082050_defa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000114036126037565/ef20082050_defa14a.htm",
+   "tickers": [
+    "LRCX"
+   ]
+  },
+  {
+   "cik": "0000707549",
+   "company": "LAM RESEARCH CORP",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-24",
+   "accession": "0000707549-26-000047",
+   "primaryDocument": "lrcx-20260924.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000047/lrcx-20260924.htm",
+   "tickers": [
+    "LRCX"
+   ]
+  },
+  {
+   "cik": "0000319201",
+   "company": "KLA CORP",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-22",
+   "accession": "0001193125-26-397940",
+   "primaryDocument": "d108333ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526397940/d108333ddefa14a.htm",
+   "tickers": [
+    "KLAC"
+   ]
+  },
+  {
+   "cik": "0000319201",
+   "company": "KLA CORP",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-22",
+   "accession": "0001193125-26-397898",
+   "primaryDocument": "d83268ddef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526397898/d83268ddef14a.htm",
+   "tickers": [
+    "KLAC"
+   ]
+  },
+  {
+   "cik": "0001078271",
+   "company": "EXTREME NETWORKS INC",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-18",
+   "accession": "0001193125-26-395561",
+   "primaryDocument": "extr-defa14a-2026_notice.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526395561/extr-defa14a-2026_notice.htm",
+   "tickers": [
+    "EXTR"
+   ]
+  },
+  {
+   "cik": "0001078271",
+   "company": "EXTREME NETWORKS INC",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-18",
+   "accession": "0001193125-26-395545",
+   "primaryDocument": "extr-20260918.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526395545/extr-20260918.htm",
+   "tickers": [
+    "EXTR"
+   ]
+  },
+  {
+   "cik": "0001411579",
+   "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-17",
+   "accession": "0001104659-26-108587",
+   "primaryDocument": "tm2625384d1_defa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926108587/tm2625384d1_defa14a.htm",
+   "tickers": [
+    "AMC"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-16",
+   "accession": "0001193125-26-393038",
+   "primaryDocument": "d159474ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526393038/d159474ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-16",
+   "accession": "0001193125-26-392338",
+   "primaryDocument": "d159134ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526392338/d159134ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0001666138",
+   "company": "Atkore Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001666138-26-000028",
+   "primaryDocument": "defa14ahsr20260915.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1666138/000166613826000028/defa14ahsr20260915.htm",
+   "tickers": [
+    "ATKR"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001193125-26-391954",
+   "primaryDocument": "d120129ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391954/d120129ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001193125-26-391939",
+   "primaryDocument": "d95889ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391939/d95889ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001193125-26-391931",
+   "primaryDocument": "d114361ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391931/d114361ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001193125-26-391924",
+   "primaryDocument": "d364424ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391924/d364424ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001193125-26-391917",
+   "primaryDocument": "d18923ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391917/d18923ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-15",
+   "accession": "0001193125-26-391911",
+   "primaryDocument": "d363879ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391911/d363879ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000895419",
+   "company": "WOLFSPEED, INC.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-11",
+   "accession": "0000895419-26-000066",
+   "primaryDocument": "defa14a2026.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000066/defa14a2026.htm",
+   "tickers": [
+    "WOLF"
+   ]
+  },
+  {
+   "cik": "0000895419",
+   "company": "WOLFSPEED, INC.",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-11",
+   "accession": "0000895419-26-000065",
+   "primaryDocument": "wolf-20260911.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000065/wolf-20260911.htm",
+   "tickers": [
+    "WOLF"
+   ]
+  },
+  {
+   "cik": "0001040470",
+   "company": "AEHR TEST SYSTEMS",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-09",
+   "accession": "0001654954-26-008222",
+   "primaryDocument": "aehr_def14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426008222/aehr_def14a.htm",
+   "tickers": [
+    "AEHR"
+   ]
+  },
+  {
+   "cik": "0001137789",
+   "company": "Seagate Technology Holdings plc",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-08",
+   "accession": "0001137789-26-000209",
+   "primaryDocument": "stxdefa-14axproxynotice.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000209/stxdefa-14axproxynotice.htm",
+   "tickers": [
+    "STX"
+   ]
+  },
+  {
+   "cik": "0001137789",
+   "company": "Seagate Technology Holdings plc",
+   "form": "DEF 14A",
+   "filingDate": "2026-09-08",
+   "accession": "0001137789-26-000207",
+   "primaryDocument": "stx-20260908.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000207/stx-20260908.htm",
+   "tickers": [
+    "STX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-04",
+   "accession": "0001193125-26-382691",
+   "primaryDocument": "d105596ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526382691/d105596ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-04",
+   "accession": "0001193125-26-382685",
+   "primaryDocument": "d105596ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526382685/d105596ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-04",
+   "accession": "0001193125-26-382496",
+   "primaryDocument": "d108491ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526382496/d108491ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0001500435",
+   "company": "GoPro, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-04",
+   "accession": "0001628280-26-060722",
+   "primaryDocument": "a20260904schedule14acomms.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1500435/000162828026060722/a20260904schedule14acomms.htm",
+   "tickers": [
+    "GPRO"
+   ]
+  },
+  {
+   "cik": "0001500435",
+   "company": "GoPro, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-09-01",
+   "accession": "0001628280-26-059846",
+   "primaryDocument": "a20260901schedule14acomms.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1500435/000162828026059846/a20260901schedule14acomms.htm",
+   "tickers": [
+    "GPRO"
+   ]
+  },
+  {
+   "cik": "0000080424",
+   "company": "PROCTER & GAMBLE Co",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-28",
+   "accession": "0001193125-26-372215",
+   "primaryDocument": "pg_defa14a_2026.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312526372215/pg_defa14a_2026.htm",
+   "tickers": [
+    "PG"
+   ]
+  },
+  {
+   "cik": "0000080424",
+   "company": "PROCTER & GAMBLE Co",
+   "form": "DEF 14A",
+   "filingDate": "2026-08-28",
+   "accession": "0001193125-26-372211",
+   "primaryDocument": "pg-20260826.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312526372211/pg-20260826.htm",
+   "tickers": [
+    "PG"
+   ]
+  },
+  {
+   "cik": "0001577526",
+   "company": "C3.ai, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-28",
+   "accession": "0001577526-26-000112",
+   "primaryDocument": "c3ai-202608xnoticeandacces.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1577526/000157752626000112/c3ai-202608xnoticeandacces.htm",
+   "tickers": [
+    "AI"
+   ]
+  },
+  {
+   "cik": "0001577526",
+   "company": "C3.ai, Inc.",
+   "form": "DEF 14A",
+   "filingDate": "2026-08-28",
+   "accession": "0001577526-26-000110",
+   "primaryDocument": "ai-20260827.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1577526/000157752626000110/ai-20260827.htm",
+   "tickers": [
+    "AI"
+   ]
+  },
+  {
+   "cik": "0001807794",
+   "company": "Credo Technology Group Holding Ltd",
+   "form": "DEF 14A",
+   "filingDate": "2026-08-25",
+   "accession": "0001628280-26-058936",
+   "primaryDocument": "crdo-20260825.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026058936/crdo-20260825.htm",
+   "tickers": [
+    "CRDO"
+   ]
+  },
+  {
+   "cik": "0001970622",
+   "company": "USA Rare Earth, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-24",
+   "accession": "0001213900-26-092813",
+   "primaryDocument": "ea0302961-defa14a_usarare.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1970622/000121390026092813/ea0302961-defa14a_usarare.htm",
+   "tickers": [
+    "USAR"
+   ]
+  },
+  {
+   "cik": "0001613103",
+   "company": "Medtronic plc",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-17",
+   "accession": "0001613103-26-000012",
+   "primaryDocument": "mdtproxyadditionalmaterial.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000012/mdtproxyadditionalmaterial.htm",
+   "tickers": [
+    "MDT"
+   ]
+  },
+  {
+   "cik": "0001613103",
+   "company": "Medtronic plc",
+   "form": "DEF 14A",
+   "filingDate": "2026-08-17",
+   "accession": "0001613103-26-000010",
+   "primaryDocument": "mdt-20260816.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000010/mdt-20260816.htm",
+   "tickers": [
+    "MDT"
+   ]
+  },
+  {
+   "cik": "0001968487",
+   "company": "Worthington Steel, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-14",
+   "accession": "0001193125-26-352267",
+   "primaryDocument": "d163786ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1968487/000119312526352267/d163786ddefa14a.htm",
+   "tickers": [
+    "WS"
+   ]
+  },
+  {
+   "cik": "0001968487",
+   "company": "Worthington Steel, Inc.",
+   "form": "DEF 14A",
+   "filingDate": "2026-08-14",
+   "accession": "0001193125-26-352256",
+   "primaryDocument": "d163786ddef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1968487/000119312526352256/d163786ddef14a.htm",
+   "tickers": [
+    "WS"
+   ]
+  },
+  {
+   "cik": "0001411579",
+   "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-10",
+   "accession": "0001104659-26-093419",
+   "primaryDocument": "tm264130d3_defa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926093419/tm264130d3_defa14a.htm",
+   "tickers": [
+    "AMC"
+   ]
+  },
+  {
+   "cik": "0001411579",
+   "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "form": "DEF 14A",
+   "filingDate": "2026-08-10",
+   "accession": "0001104659-26-093412",
+   "primaryDocument": "tm264130-4_def14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926093412/tm264130-4_def14a.htm",
+   "tickers": [
+    "AMC"
+   ]
+  },
+  {
+   "cik": "0001666138",
+   "company": "Atkore Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-03",
+   "accession": "0001666138-26-000023",
+   "primaryDocument": "defa14asocial.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1666138/000166613826000023/defa14asocial.htm",
+   "tickers": [
+    "ATKR"
+   ]
+  },
+  {
+   "cik": "0001666138",
+   "company": "Atkore Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-08-03",
+   "accession": "0001666138-26-000020",
+   "primaryDocument": "defa14acombined.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1666138/000166613826000020/defa14acombined.htm",
+   "tickers": [
+    "ATKR"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-31",
+   "accession": "0001193125-26-326653",
+   "primaryDocument": "d136607ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526326653/d136607ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000065270",
+   "company": "METHODE ELECTRONICS INC",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-31",
+   "accession": "0001140361-26-030318",
+   "primaryDocument": "ny20074561x2_defa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/65270/000114036126030318/ny20074561x2_defa14a.htm",
+   "tickers": [
+    "MEI"
+   ]
+  },
+  {
+   "cik": "0000065270",
+   "company": "METHODE ELECTRONICS INC",
+   "form": "DEF 14A",
+   "filingDate": "2026-07-31",
+   "accession": "0001140361-26-030317",
+   "primaryDocument": "ny20074561x1_def14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/65270/000114036126030317/ny20074561x1_def14a.htm",
+   "tickers": [
+    "MEI"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-30",
+   "accession": "0001193125-26-324418",
+   "primaryDocument": "d87134ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526324418/d87134ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-29",
+   "accession": "0001193125-26-324240",
+   "primaryDocument": "d121542ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526324240/d121542ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-29",
+   "accession": "0001193125-26-324195",
+   "primaryDocument": "d122202ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526324195/d122202ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-29",
+   "accession": "0001193125-26-323827",
+   "primaryDocument": "d157333ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323827/d157333ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-29",
+   "accession": "0001193125-26-323810",
+   "primaryDocument": "d153404ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323810/d153404ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-29",
+   "accession": "0001193125-26-323798",
+   "primaryDocument": "d170167ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323798/d170167ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-29",
+   "accession": "0001193125-26-323774",
+   "primaryDocument": "d31650ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323774/d31650ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0001923891",
+   "company": "Nano Nuclear Energy Inc.",
+   "form": "DEF 14A",
+   "filingDate": "2026-07-28",
+   "accession": "0001493152-26-034874",
+   "primaryDocument": "formdef14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1923891/000149315226034874/formdef14a.htm",
+   "tickers": [
+    "NNE"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-27",
+   "accession": "0001193125-26-316764",
+   "primaryDocument": "d173291ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526316764/d173291ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-21",
+   "accession": "0001193125-26-309205",
+   "primaryDocument": "d109245ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526309205/d109245ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0001970622",
+   "company": "USA Rare Earth, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-20",
+   "accession": "0001213900-26-079440",
+   "primaryDocument": "ea0298490-8k_usarare.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1970622/000121390026079440/ea0298490-8k_usarare.htm",
+   "tickers": [
+    "USAR"
+   ]
+  },
+  {
+   "cik": "0000866374",
+   "company": "FLEX LTD.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-20",
+   "accession": "0001193125-26-308088",
+   "primaryDocument": "d81863ddefa14a.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526308088/d81863ddefa14a.htm",
+   "tickers": [
+    "FLEX"
+   ]
+  },
+  {
+   "cik": "0001710350",
+   "company": "Bit Digital, Inc",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-20",
+   "accession": "0001213900-26-079532",
+   "primaryDocument": "ea0298456-defa14a_bitdigital.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1710350/000121390026079532/ea0298456-defa14a_bitdigital.htm",
+   "tickers": [
+    "BTBT"
+   ]
+  },
+  {
+   "cik": "0001970622",
+   "company": "USA Rare Earth, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-16",
+   "accession": "0001213900-26-078763",
+   "primaryDocument": "ea0296752-8k_usarare.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/1970622/000121390026078763/ea0296752-8k_usarare.htm",
+   "tickers": [
+    "USAR"
+   ]
+  },
+  {
+   "cik": "0000320187",
+   "company": "NIKE, Inc.",
+   "form": "DEFA14A",
+   "filingDate": "2026-07-15",
+   "accession": "0000320187-26-000091",
+   "primaryDocument": "defa14a-vote2026.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000091/defa14a-vote2026.htm",
+   "tickers": [
+    "NKE"
+   ]
+  },
+  {
+   "cik": "0000320187",
+   "company": "NIKE, Inc.",
+   "form": "DEF 14A",
+   "filingDate": "2026-07-15",
+   "accession": "0000320187-26-000089",
+   "primaryDocument": "nke-20260715.htm",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm",
+   "tickers": [
+    "NKE"
+   ]
+  }
+ ]
+}

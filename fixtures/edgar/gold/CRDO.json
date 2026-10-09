@@ -1,0 +1,6 @@
+{"note":"Hand-checked against the filing text on 2026-10-09. Cayman company, annual general meeting.",
+ "recordDate":"2026-08-20","meetingDate":"2026-10-12",
+ "proposals":[
+  {"id":"1","kind":"director_election","boardRec":"FOR","titleHas":"election of three class ii directors"},
+  {"id":"2","kind":"say_on_pay","boardRec":"FOR","titleHas":"compensation of named executive officers"},
+  {"id":"3","kind":"auditor","boardRec":"FOR","titleHas":"ratification of selection"}]}

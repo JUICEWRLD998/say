@@ -1,7 +1,8 @@
-node_modules/
-.next/
-dist/
+*.log
+.cache/
+.DS_Store
 .env
 .env.*
-*.log
-.DS_Store
+.next/
+dist/
+node_modules/

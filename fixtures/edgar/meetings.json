@@ -1,0 +1,1701 @@
+{
+ "builtFrom": "fixtures/edgar/filings.json",
+ "meetings": [
+  {
+   "ticker": "APLD",
+   "otherTickersOnCik": [],
+   "company": "Applied Digital Corp.",
+   "cik": "0001144879",
+   "filingDate": "2026-09-25",
+   "accession": "0001493152-26-044325",
+   "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226044325/formdef14a.htm",
+   "recordDate": "2026-09-25",
+   "meetingDate": "2026-02-06",
+   "status": "needs_review",
+   "failedChecks": [
+    "date-order: record 2026-09-25 before meeting 2026-02-06",
+    "recommendations: no verified board recommendation for proposal 1, 2, 3, 4"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "ELECTION OF DIRECTORS Our Board, upon recommendation of our Nominating and Corporate Governance Committee, has nominated Wes Cummins, Ella B",
+     "boardRec": null,
+     "quote": "PROPOSAL 1 ELECTION OF DIRECTORS Our Board, upon recommendation of our Nominating and Corporate Governance Committee, has nominated Wes Cummins, Ella B",
+     "recQuote": null
+    },
+    {
+     "id": "2",
+     "kind": "auditor",
+     "text": "APPOINTMENT OF CBIZ CPAS P.C. AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING MAY 31, 2027 Introduction The",
+     "boardRec": null,
+     "quote": "PROPOSAL 2 APPOINTMENT OF CBIZ CPAS P.C. AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING MAY 31, 2027 Introduction The",
+     "recQuote": null
+    },
+    {
+     "id": "3",
+     "kind": "say_on_pay",
+     "text": "ADVISORY VOTE ON EXECUTIVE COMPENSATION The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (known as the Dodd-Frank Act)",
+     "boardRec": null,
+     "quote": "PROPOSAL 3 ADVISORY VOTE ON EXECUTIVE COMPENSATION The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (known as the Dodd-Frank Act)",
+     "recQuote": null
+    },
+    {
+     "id": "4",
+     "kind": "other",
+     "text": "APPROVAL OF THE ADJOURNMENT OF THE ANNUAL MEETING IN THE EVENT THAT THERE ARE INSUFFICIENT VOTES FOR, OR OTHERWISE IN CONNECTION WITH, THE A",
+     "boardRec": null,
+     "quote": "PROPOSAL 4 APPROVAL OF THE ADJOURNMENT OF THE ANNUAL MEETING IN THE EVENT THAT THERE ARE INSUFFICIENT VOTES FOR, OR OTHERWISE IN CONNECTION WITH, THE A",
+     "recQuote": null
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-25",
+     "accession": "0001493152-26-044328",
+     "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315226044328/formdefa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "APLDon",
+     "address": "0x18de24acb876c0b8392d9c55583bb21c0355980b",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 165
+    }
+   ]
+  },
+  {
+   "ticker": "FLEX",
+   "otherTickersOnCik": [],
+   "company": "FLEX LTD.",
+   "cik": "0000866374",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-413189",
+   "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526413189/d79728ddef14a.htm",
+   "recordDate": "2026-09-24",
+   "meetingDate": "2026-06-12",
+   "status": "needs_review",
+   "failedChecks": [
+    "date-order: record 2026-09-24 before meeting 2026-06-12"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "other",
+     "text": "APPROVAL OF THE CAPITALIZATION OF RESERVE ACCOUNTS AND PROFIT AND LOSS ACCOUNTS OR OTHERWISE AVAILABLE FOR DISTRIBUTION IN CONNECTION WITH B",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 1: APPROVAL OF THE CAPITALIZATION OF RESERVE ACCOUNTS AND PROFIT AND LOSS ACCOUNTS OR OTHERWISE AVAILABLE FOR DISTRIBUTION IN CONNECTION WITH B",
+     "recQuote": "The Board recommends a vote \"FOR"
+    },
+    {
+     "id": "2",
+     "kind": "other",
+     "text": "APPROVAL OF THE CAPITAL REDUCTION AND THE DISTRIBUTION",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 2: APPROVAL OF THE CAPITAL REDUCTION AND THE DISTRIBUTION",
+     "recQuote": "The Board recommends a vote \"FOR"
+    },
+    {
+     "id": "3",
+     "kind": "other",
+     "text": "APPROVAL OF THE ANNUAL CASH COMPENSATION PAYABLE TO THE LEAD INDEPENDENT DIRECTOR",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 3: APPROVAL OF THE ANNUAL CASH COMPENSATION PAYABLE TO THE LEAD INDEPENDENT DIRECTOR",
+     "recQuote": "The Board recommends a vote \"FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-10-05",
+     "accession": "0001193125-26-413181",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526413181/d123485ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-10-02",
+     "accession": "0001104659-26-113290",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-16",
+     "accession": "0001193125-26-393038",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526393038/d159474ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-16",
+     "accession": "0001193125-26-392338",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526392338/d159134ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-15",
+     "accession": "0001193125-26-391954",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391954/d120129ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-15",
+     "accession": "0001193125-26-391939",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391939/d95889ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-15",
+     "accession": "0001193125-26-391931",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391931/d114361ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-15",
+     "accession": "0001193125-26-391924",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391924/d364424ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-15",
+     "accession": "0001193125-26-391917",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391917/d18923ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-15",
+     "accession": "0001193125-26-391911",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526391911/d363879ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-04",
+     "accession": "0001193125-26-382691",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526382691/d105596ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-04",
+     "accession": "0001193125-26-382685",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526382685/d105596ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-09-04",
+     "accession": "0001193125-26-382496",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526382496/d108491ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-31",
+     "accession": "0001193125-26-326653",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526326653/d136607ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-30",
+     "accession": "0001193125-26-324418",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526324418/d87134ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-29",
+     "accession": "0001193125-26-324240",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526324240/d121542ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-29",
+     "accession": "0001193125-26-324195",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526324195/d122202ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-29",
+     "accession": "0001193125-26-323827",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323827/d157333ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-29",
+     "accession": "0001193125-26-323810",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323810/d153404ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-29",
+     "accession": "0001193125-26-323798",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323798/d170167ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-29",
+     "accession": "0001193125-26-323774",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526323774/d31650ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-27",
+     "accession": "0001193125-26-316764",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526316764/d173291ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-21",
+     "accession": "0001193125-26-309205",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526309205/d109245ddefa14a.htm"
+    },
+    {
+     "filingDate": "2026-07-20",
+     "accession": "0001193125-26-308088",
+     "url": "https://www.sec.gov/Archives/edgar/data/866374/000119312526308088/d81863ddefa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "FLEXon",
+     "address": "0x102138be022f8d142bcb817f7264921d65209608",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 14
+    }
+   ]
+  },
+  {
+   "ticker": "NNE",
+   "otherTickersOnCik": [],
+   "company": "Nano Nuclear Energy Inc.",
+   "cik": "0001923891",
+   "filingDate": "2026-07-28",
+   "accession": "0001493152-26-034874",
+   "url": "https://www.sec.gov/Archives/edgar/data/1923891/000149315226034874/formdef14a.htm",
+   "recordDate": "2026-07-22",
+   "meetingDate": "2026-06-22",
+   "status": "needs_review",
+   "failedChecks": [
+    "date-order: record 2026-07-22 before meeting 2026-06-22"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "ELECTION OF DIRECTORS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 1 ELECTION OF DIRECTORS",
+     "recQuote": "The Board of Directors unanimously recommends a vote FOR"
+    },
+    {
+     "id": "2",
+     "kind": "auditor",
+     "text": "RATIFICATION OF THE APPOINTMENT BY THE AUDIT COMMITTEE OF THE BOARD OF WITHUMSMITH+BROWN, PC AS THE COMPANY'S INDEPENDENT REGISTERED PUBLIC",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 2 RATIFICATION OF THE APPOINTMENT BY THE AUDIT COMMITTEE OF THE BOARD OF WITHUMSMITH+BROWN, PC AS THE COMPANY'S INDEPENDENT REGISTERED PUBLIC",
+     "recQuote": "The Board recommends that stockholders vote \"FOR"
+    }
+   ],
+   "amendments": [],
+   "wrappers": [
+    {
+     "symbol": "NNEon",
+     "address": "0x3c276dd9f9eab5510f9eafd3a6ea54879b27ca3d",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 28
+    }
+   ]
+  },
+  {
+   "ticker": "NKE",
+   "otherTickersOnCik": [],
+   "company": "NIKE, Inc.",
+   "cik": "0000320187",
+   "filingDate": "2026-07-15",
+   "accession": "0000320187-26-000089",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm",
+   "recordDate": "2026-07-08",
+   "meetingDate": "2026-09-08",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 1"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": null,
+     "quote": "PROPOSAL 1 Election of Directors",
+     "recQuote": null
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Shareholder Advisory Vote to Approve Executive Compensation",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 2 Shareholder Advisory Vote to Approve Executive Compensation",
+     "recQuote": "The Board of Directors recommends that shareholders vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of Appointment of Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 3 Ratification of Appointment of Independent Registered Public Accounting Firm",
+     "recQuote": "The Board of Directors recommends that shareholders vote FOR"
+    },
+    {
+     "id": "4",
+     "kind": "equity_plan",
+     "text": "Approval of Amendment of NIKE, Inc. Employee Stock Purchase Plan to Increase Authorized Shares",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 4 Approval of Amendment of NIKE, Inc. Employee Stock Purchase Plan to Increase Authorized Shares",
+     "recQuote": "The Board of Directors recommends that shareholders vote FOR"
+    },
+    {
+     "id": "5",
+     "kind": "shareholder",
+     "text": "Shareholder Proposal Regarding a Report on Discrimination in Charitable Support",
+     "boardRec": "AGAINST",
+     "quote": "PROPOSAL 5 Shareholder Proposal Regarding a Report on Discrimination in Charitable Support",
+     "recQuote": "The Board of Directors recommends a vote AGAINST"
+    },
+    {
+     "id": "6",
+     "kind": "shareholder",
+     "text": "Shareholder Proposal Regarding Environmental Targets",
+     "boardRec": "AGAINST",
+     "quote": "PROPOSAL 6 Shareholder Proposal Regarding Environmental Targets",
+     "recQuote": "The Board of Directors recommends a vote AGAINST"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-07-15",
+     "accession": "0000320187-26-000091",
+     "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000091/defa14a-vote2026.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "NKEon",
+     "address": "0x04b5e199f2ec84f78b111035f57b16bee448db6f",
+     "type": 1,
+     "multiplier": "1.026577066356554817",
+     "holders": 752
+    }
+   ]
+  },
+  {
+   "ticker": "MEI",
+   "otherTickersOnCik": [],
+   "company": "METHODE ELECTRONICS INC",
+   "cik": "0000065270",
+   "filingDate": "2026-07-31",
+   "accession": "0001140361-26-030317",
+   "url": "https://www.sec.gov/Archives/edgar/data/65270/000114036126030317/ny20074561x1_def14a.htm",
+   "recordDate": "2026-07-23",
+   "meetingDate": "2026-09-16",
+   "status": "needs_review",
+   "failedChecks": [
+    "quotes: no proposals extracted",
+    "recommendations: no proposals extracted",
+    "ids: ids [] are not 1..n",
+    "count: filing mentions proposals up to 4; extracted 0"
+   ],
+   "proposals": [],
+   "amendments": [
+    {
+     "filingDate": "2026-07-31",
+     "accession": "0001140361-26-030318",
+     "url": "https://www.sec.gov/Archives/edgar/data/65270/000114036126030318/ny20074561x2_defa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "MEIon",
+     "address": "0x89c37104afcee9a72187e05d960a1e09763a126e",
+     "type": 1,
+     "multiplier": "1.00228200822983448",
+     "holders": 19
+    }
+   ]
+  },
+  {
+   "ticker": "WS",
+   "otherTickersOnCik": [],
+   "company": "Worthington Steel, Inc.",
+   "cik": "0001968487",
+   "filingDate": "2026-08-14",
+   "accession": "0001193125-26-352256",
+   "url": "https://www.sec.gov/Archives/edgar/data/1968487/000119312526352256/d163786ddef14a.htm",
+   "recordDate": "2026-07-28",
+   "meetingDate": "2026-09-23",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 1, 2, 3"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": null,
+     "quote": "Proposal 1: Election of Directors",
+     "recQuote": null
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote to Approve the Compensation of the NEOs",
+     "boardRec": null,
+     "quote": "Proposal 2: Advisory Vote to Approve the Compensation of the NEOs",
+     "recQuote": null
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of the Selection of Independent Registered Public Accounting Firm",
+     "boardRec": null,
+     "quote": "Proposal 3: Ratification of the Selection of Independent Registered Public Accounting Firm",
+     "recQuote": null
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-08-14",
+     "accession": "0001193125-26-352267",
+     "url": "https://www.sec.gov/Archives/edgar/data/1968487/000119312526352267/d163786ddefa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "WSon",
+     "address": "0x50e66edb7d0b79ee988f098754a27afaa643b4f5",
+     "type": 1,
+     "multiplier": "1.006051456731992729",
+     "holders": 14
+    }
+   ]
+  },
+  {
+   "ticker": "AMC",
+   "otherTickersOnCik": [],
+   "company": "AMC ENTERTAINMENT HOLDINGS, INC.",
+   "cik": "0001411579",
+   "filingDate": "2026-08-10",
+   "accession": "0001104659-26-093412",
+   "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926093412/tm264130-4_def14a.htm",
+   "recordDate": "2026-07-31",
+   "meetingDate": "2026-09-24",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 5",
+    "ids: ids [1,3,4,5,6,7,8,9] are not 1..n",
+    "count: filing mentions proposals up to 9; extracted 8"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "other",
+     "text": "APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION TO DECLASSIFY THE BOARD AND MAKE CERTAIN OTHER CHANGES",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 1: APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION TO DECLASSIFY THE BOARD AND MAKE CERTAIN OTHER CHANGES",
+     "recQuote": "Our Board recommends a vote \"for"
+    },
+    {
+     "id": "3",
+     "kind": "other",
+     "text": "APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION TO ELIMINATE THE PROHIBITION AGAINST STOCKHOLDERS ACTING BY WRITTEN CONSENT",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 3: APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION TO ELIMINATE THE PROHIBITION AGAINST STOCKHOLDERS ACTING BY WRITTEN CONSENT",
+     "recQuote": "Our Board recommends a vote \"for"
+    },
+    {
+     "id": "4",
+     "kind": "other",
+     "text": "APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION TO REMOVE THE LIMITATION ON STOCKHOLDERS' ABILITY TO CALL SPECIAL MEETINGS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 4: APPROVAL OF AN AMENDMENT TO THE CERTIFICATE OF INCORPORATION TO REMOVE THE LIMITATION ON STOCKHOLDERS' ABILITY TO CALL SPECIAL MEETINGS",
+     "recQuote": "Our Board recommends a vote \"for"
+    },
+    {
+     "id": "5",
+     "kind": "equity_plan",
+     "text": "APPROVAL OF AN AMENDMENT TO THE COMPANY'S 2024 EQUITY INCENTIVE PLAN Proposed Amendment We are submitting for stockholder approval an amendm",
+     "boardRec": null,
+     "quote": "PROPOSAL 5 APPROVAL OF AN AMENDMENT TO THE COMPANY'S 2024 EQUITY INCENTIVE PLAN Proposed Amendment We are submitting for stockholder approval an amendm",
+     "recQuote": null
+    },
+    {
+     "id": "6",
+     "kind": "auditor",
+     "text": "RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 6: RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+     "recQuote": "The Board recommends a vote \"FOR"
+    },
+    {
+     "id": "7",
+     "kind": "say_on_pay",
+     "text": "NON-BINDING ADVISORY VOTE TO APPROVE THE COMPENSATION OF NAMED EXECUTIVE OFFICERS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 7: NON-BINDING ADVISORY VOTE TO APPROVE THE COMPENSATION OF NAMED EXECUTIVE OFFICERS",
+     "recQuote": "The Board recommends a vote \"FOR"
+    },
+    {
+     "id": "8",
+     "kind": "say_on_pay",
+     "text": "NON-BINDING ADVISORY VOTE ON THE FREQUENCY OF THE ADVISORY VOTE ON COMPENSATION OF NAMED EXECUTIVE OFFICERS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 8: NON-BINDING ADVISORY VOTE ON THE FREQUENCY OF THE ADVISORY VOTE ON COMPENSATION OF NAMED EXECUTIVE OFFICERS",
+     "recQuote": "The Board recommends a vote for"
+    },
+    {
+     "id": "9",
+     "kind": "other",
+     "text": "ADJOURNMENT OF ANNUAL MEETING",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 9: ADJOURNMENT OF ANNUAL MEETING",
+     "recQuote": "Our Board recommends a vote \"for"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-17",
+     "accession": "0001104659-26-108587",
+     "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926108587/tm2625384d1_defa14a.htm"
+    },
+    {
+     "filingDate": "2026-08-10",
+     "accession": "0001104659-26-093419",
+     "url": "https://www.sec.gov/Archives/edgar/data/1411579/000110465926093419/tm264130d3_defa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "AMCB",
+     "address": "0x96e7d606e229448ef817a7f35fd7394c3e15d00c",
+     "type": 3,
+     "multiplier": "1",
+     "holders": null
+    },
+    {
+     "symbol": "AMCon",
+     "address": "0x1d7b5e06fdbe4fd33f5c64c081e32b5d539751d0",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 167
+    }
+   ]
+  },
+  {
+   "ticker": "AOSL",
+   "otherTickersOnCik": [],
+   "company": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
+   "cik": "0001387467",
+   "filingDate": "2026-09-30",
+   "accession": "0001628280-26-063962",
+   "url": "https://www.sec.gov/Archives/edgar/data/1387467/000162828026063962/aosl-20260930.htm",
+   "recordDate": "2026-09-17",
+   "meetingDate": "2026-09-30",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 1, 3, 4",
+    "ids: ids [1,2,3,4,5,9] are not 1..n",
+    "count: filing mentions proposals up to 5; extracted 6"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": null,
+     "quote": "Proposal No. 1: Election of Directors",
+     "recQuote": null
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote on the Compensation of the Named Executive Officers",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 2: Advisory Vote on the Compensation of the Named Executive Officers",
+     "recQuote": "The Board recommends that shareholders vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "equity_plan",
+     "text": "APPROVAL OF AMENDMENT AND RESTATEMENT OF THE 2018 OMNIBUS INCENTIVE PLAN We are asking our shareholders to approve an amendment and restatem",
+     "boardRec": null,
+     "quote": "PROPOSAL NO. 3 APPROVAL OF AMENDMENT AND RESTATEMENT OF THE 2018 OMNIBUS INCENTIVE PLAN We are asking our shareholders to approve an amendment and restatem",
+     "recQuote": null
+    },
+    {
+     "id": "4",
+     "kind": "equity_plan",
+     "text": "Approval of Amendment to 2018 Employee Stock Purchase Plan",
+     "boardRec": null,
+     "quote": "Proposal No. 4 : Approval of Amendment to 2018 Employee Stock Purchase Plan",
+     "recQuote": null
+    },
+    {
+     "id": "5",
+     "kind": "auditor",
+     "text": "Ratification of Appointment of Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 5 : Ratification of Appointment of Independent Registered Public Accounting Firm",
+     "recQuote": "The Board recommends that shareholders vote FOR"
+    },
+    {
+     "id": "9",
+     "kind": "other",
+     "text": "A of Part II of the Company's Annual Report on Form 10-K for the year ended June 30, 2023, filed with the SEC on August 29, 2023, related to",
+     "boardRec": "FOR",
+     "quote": "Item 9A of Part II of the Company's Annual Report on Form 10-K for the year ended June 30, 2023, filed with the SEC on August 29, 2023, related to",
+     "recQuote": "The Board recommends that shareholders vote FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-30",
+     "accession": "0001628280-26-063964",
+     "url": "https://www.sec.gov/Archives/edgar/data/1387467/000162828026063964/aosdefinitiveproxystatemen.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "AOSLon",
+     "address": "0x55b8cc618c4209a97250dff926d3d708814d36aa",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 18
+    }
+   ]
+  },
+  {
+   "ticker": "CRDO",
+   "otherTickersOnCik": [],
+   "company": "Credo Technology Group Holding Ltd",
+   "cik": "0001807794",
+   "filingDate": "2026-08-25",
+   "accession": "0001628280-26-058936",
+   "url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026058936/crdo-20260825.htm",
+   "recordDate": "2026-08-20",
+   "meetingDate": "2026-10-12",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Three Class II Directors",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 1: Election of Three Class II Directors",
+     "recQuote": "Our Board unanimously recommends that you vote FOR"
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote on Compensation of Named Executive Officers",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 2: Advisory Vote on Compensation of Named Executive Officers",
+     "recQuote": "Our Board unanimously recommends that you vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of Selection of Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 3: Ratification of Selection of Independent Registered Public Accounting Firm",
+     "recQuote": "Our Board unanimously recommends that you vote FOR"
+    }
+   ],
+   "amendments": [],
+   "wrappers": [
+    {
+     "symbol": "CRDOB",
+     "address": "0x6e7d451f9d30327d32020f116fa79c23b24e9c8d",
+     "type": 3,
+     "multiplier": "1",
+     "holders": null
+    },
+    {
+     "symbol": "CRDOon",
+     "address": "0xf157481bebd0c0686780fd0f61806c900a6137e8",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 102
+    }
+   ]
+  },
+  {
+   "ticker": "PG",
+   "otherTickersOnCik": [],
+   "company": "PROCTER & GAMBLE Co",
+   "cik": "0000080424",
+   "filingDate": "2026-08-28",
+   "accession": "0001193125-26-372211",
+   "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312526372211/pg-20260826.htm",
+   "recordDate": "2026-08-14",
+   "meetingDate": "2026-10-13",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": "FOR",
+     "quote": "ITEM 1 : Election of Directors",
+     "recQuote": "The Board of Directors recommends a vote FOR"
+    },
+    {
+     "id": "2",
+     "kind": "auditor",
+     "text": "Ratify Appointment of the Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "Item 2. Ratify Appointment of the Independent Registered Public Accounting Firm",
+     "recQuote": "review of fees. T he Board of Directors recommends a vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote on Executive Compensation",
+     "boardRec": "FOR",
+     "quote": "ITEM 3: Advisory Vote on Executive Compensation",
+     "recQuote": "The Board of Directors recommends a vote FOR"
+    },
+    {
+     "id": "4",
+     "kind": "shareholder",
+     "text": "SHAREHOLDER PROPOSAL REQUESTING LOWER THRESHOLD FOR SPECIAL MEETINGS The Accountability Board, Inc., whose address and shareholdings are ava",
+     "boardRec": "AGAINST",
+     "quote": "ITEM 4. SHAREHOLDER PROPOSAL REQUESTING LOWER THRESHOLD FOR SPECIAL MEETINGS The Accountability Board, Inc., whose address and shareholdings are ava",
+     "recQuote": "THE BOARD RECOMMENDS A VOTE AGAINST"
+    },
+    {
+     "id": "5",
+     "kind": "shareholder",
+     "text": "SHAREHOLDER PROPOSAL REQUESTING POLICY ON ELIGIBILITY THRESHOLDS FOR PROPONENTS OF SHAREHOLDER PROPOSALS The National Legal and Policy Cente",
+     "boardRec": "AGAINST",
+     "quote": "ITEM 5. SHAREHOLDER PROPOSAL REQUESTING POLICY ON ELIGIBILITY THRESHOLDS FOR PROPONENTS OF SHAREHOLDER PROPOSALS The National Legal and Policy Cente",
+     "recQuote": "THE BOARD RECOMMENDS A VOTE AGAINST"
+    },
+    {
+     "id": "6",
+     "kind": "shareholder",
+     "text": "SHAREHOLDER PROPOSAL REQUESTING ANNUAL REPORTING ON CHARITABLE CONTRIBUTIONS The Bahnsen Family Trust, whose address and shareholdings are a",
+     "boardRec": "AGAINST",
+     "quote": "ITEM 6. SHAREHOLDER PROPOSAL REQUESTING ANNUAL REPORTING ON CHARITABLE CONTRIBUTIONS The Bahnsen Family Trust, whose address and shareholdings are a",
+     "recQuote": "THE BOARD RECOMMENDS A VOTE AGAINST"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-10-07",
+     "accession": "0000080424-26-000212",
+     "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000212/additionalmaterialreitem5.htm"
+    },
+    {
+     "filingDate": "2026-08-28",
+     "accession": "0001193125-26-372215",
+     "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312526372215/pg_defa14a_2026.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "PGon",
+     "address": "0x400f1e257f86d25578a0928c94dc95115f09d5c9",
+     "type": 1,
+     "multiplier": "1.025304000727182209",
+     "holders": 176
+    },
+    {
+     "symbol": "PGx",
+     "address": "0xa90424d5d3e770e8644103ab503ed775dd1318fd",
+     "type": 2,
+     "multiplier": "1",
+     "holders": null
+    }
+   ]
+  },
+  {
+   "ticker": "MDT",
+   "otherTickersOnCik": [],
+   "company": "Medtronic plc",
+   "cik": "0001613103",
+   "filingDate": "2026-08-17",
+   "accession": "0001613103-26-000010",
+   "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000010/mdt-20260816.htm",
+   "recordDate": "2026-08-21",
+   "meetingDate": "2026-10-15",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 1 Election of Directors",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR"
+    },
+    {
+     "id": "2",
+     "kind": "auditor",
+     "text": "Ratifying the Appointment of Independent Auditor and Authorizing the Audit Committee to Set Auditor Remuneration",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 2 Ratifying the Appointment of Independent Auditor and Authorizing the Audit Committee to Set Auditor Remuneration",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR"
+    },
+    {
+     "id": "3",
+     "kind": "say_on_pay",
+     "text": "Advisory Resolution to Approve Named Executive Officer Compensation (Say-On-Pay)",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 3 Advisory Resolution to Approve Named Executive Officer Compensation (Say-On-Pay)",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR"
+    },
+    {
+     "id": "4",
+     "kind": "other",
+     "text": "Renewal of the Board's Authority to Issue Shares Under Irish Law",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 4 Renewal of the Board's Authority to Issue Shares Under Irish Law",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR"
+    },
+    {
+     "id": "5",
+     "kind": "other",
+     "text": "Renewal of the Board Authority to Opt Out of Statutory Pre-Emption Rights Under Irish Law",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 5 Renewal of the Board Authority to Opt Out of Statutory Pre-Emption Rights Under Irish Law",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR"
+    },
+    {
+     "id": "6",
+     "kind": "other",
+     "text": "Authorization of the Company and Any Subsidiary of the Company to Make Overseas Market Purchases of Medtronic Ordinary Shares",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 6 Authorization of the Company and Any Subsidiary of the Company to Make Overseas Market Purchases of Medtronic Ordinary Shares",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-08-17",
+     "accession": "0001613103-26-000012",
+     "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000012/mdtproxyadditionalmaterial.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "MDTx",
+     "address": "0x0588e851ec0418d660bee81230d6c678daf21d46",
+     "type": 2,
+     "multiplier": "1",
+     "holders": null
+    }
+   ]
+  },
+  {
+   "ticker": "AEHR",
+   "otherTickersOnCik": [],
+   "company": "AEHR TEST SYSTEMS",
+   "cik": "0001040470",
+   "filingDate": "2026-09-09",
+   "accession": "0001654954-26-008222",
+   "url": "https://www.sec.gov/Archives/edgar/data/1040470/000165495426008222/aehr_def14a.htm",
+   "recordDate": "2026-08-27",
+   "meetingDate": "2026-10-19",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "ELECTION OF DIRECTORS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 1: ELECTION OF DIRECTORS",
+     "recQuote": "THE BOARD UNANIMOUSLY RECOMMENDS THAT SHAREHOLDERS VOTE \"FOR"
+    },
+    {
+     "id": "2",
+     "kind": "auditor",
+     "text": "RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 2: RATIFICATION OF APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+     "recQuote": "the Board recommends that shareholders vote for"
+    },
+    {
+     "id": "3",
+     "kind": "say_on_pay",
+     "text": "APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION OF THE COMPANY'S NAMED EXECUTIVE OFFICERS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 3: APPROVAL, ON AN ADVISORY BASIS, OF THE COMPENSATION OF THE COMPANY'S NAMED EXECUTIVE OFFICERS",
+     "recQuote": "The Board unanimously recommends that shareholders vote \"FOR"
+    }
+   ],
+   "amendments": [],
+   "wrappers": [
+    {
+     "symbol": "AEHRon",
+     "address": "0xdce0957e22f7baf2aa1a50d854e03cee6f215004",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 51
+    }
+   ]
+  },
+  {
+   "ticker": "STX",
+   "otherTickersOnCik": [],
+   "company": "Seagate Technology Holdings plc",
+   "cik": "0001137789",
+   "filingDate": "2026-09-08",
+   "accession": "0001137789-26-000207",
+   "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000207/stx-20260908.htm",
+   "recordDate": "2026-08-26",
+   "meetingDate": "2026-10-24",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 1, 2, 3"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Each of the Nine Director Nominees",
+     "boardRec": null,
+     "quote": "Proposal 1 - Election of Each of the Nine Director Nominees",
+     "recQuote": null
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote on NEO Compensation FOR, AGAINST, or ABSTAIN FOR Page",
+     "boardRec": null,
+     "quote": "Proposal No. 2 Advisory Vote on NEO Compensation FOR, AGAINST, or ABSTAIN FOR Page",
+     "recQuote": null
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of Appointment of Independent Auditors and Binding Authorization of Audit and Finance Committee to set Remuneration of Independ",
+     "boardRec": null,
+     "quote": "Proposal No. 3 Ratification of Appointment of Independent Auditors and Binding Authorization of Audit and Finance Committee to set Remuneration of Independ",
+     "recQuote": null
+    },
+    {
+     "id": "4",
+     "kind": "other",
+     "text": "Grant Board Authority to Allot and Issue Shares",
+     "boardRec": "FOR",
+     "quote": "Proposal 4 - Grant Board Authority to Allot and Issue Shares",
+     "recQuote": "THE BOARD RECOMMENDS THAT YOU VOTE \"FOR"
+    },
+    {
+     "id": "5",
+     "kind": "other",
+     "text": "Grant Board Authority to Opt-out of Statutory Pre-emption Rights",
+     "boardRec": "FOR",
+     "quote": "Proposal 5 - Grant Board Authority to Opt-out of Statutory Pre-emption Rights",
+     "recQuote": "The Board recommends that you vote \"FOR"
+    },
+    {
+     "id": "6",
+     "kind": "other",
+     "text": "Determine the Price Range at which the Company can Re-Allot Shares Held as Treasury Shares",
+     "boardRec": "FOR",
+     "quote": "Proposal 6 - Determine the Price Range at which the Company can Re-Allot Shares Held as Treasury Shares",
+     "recQuote": "The Board recommends that you vote \"FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-08",
+     "accession": "0001137789-26-000209",
+     "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000209/stxdefa-14axproxynotice.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "STXB",
+     "address": "0x2e065f65f1699964f4092de1d39a8efe6c8d6f32",
+     "type": 3,
+     "multiplier": "1.00055924717844473",
+     "holders": null
+    },
+    {
+     "symbol": "STXon",
+     "address": "0x966ebcba3c51e81f5cf159a1eabefd2327ab5e8d",
+     "type": 1,
+     "multiplier": "1.002715741252088661",
+     "holders": 196
+    }
+   ]
+  },
+  {
+   "ticker": "AI",
+   "otherTickersOnCik": [],
+   "company": "C3.ai, Inc.",
+   "cik": "0001577526",
+   "filingDate": "2026-08-28",
+   "accession": "0001577526-26-000110",
+   "url": "https://www.sec.gov/Archives/edgar/data/1577526/000157752626000110/ai-20260827.htm",
+   "recordDate": "2026-09-04",
+   "meetingDate": "2026-10-26",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 4",
+    "ids: ids [4] are not 1..n",
+    "count: filing mentions proposals up to 4; extracted 1"
+   ],
+   "proposals": [
+    {
+     "id": "4",
+     "kind": "other",
+     "text": "Under applicable NYSE rules (which our bylaws apply to this proposal), the approval of the amendment and restatement of our 2020 Equity Ince",
+     "boardRec": null,
+     "quote": "Proposal No. 4. Under applicable NYSE rules (which our bylaws apply to this proposal), the approval of the amendment and restatement of our 2020 Equity Ince",
+     "recQuote": null
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-08-28",
+     "accession": "0001577526-26-000112",
+     "url": "https://www.sec.gov/Archives/edgar/data/1577526/000157752626000112/c3ai-202608xnoticeandacces.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "AIon",
+     "address": "0xbb8c10f7e828e3279df8cc3397a5212f845c509b",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 5
+    }
+   ]
+  },
+  {
+   "ticker": "WOLF",
+   "otherTickersOnCik": [],
+   "company": "WOLFSPEED, INC.",
+   "cik": "0000895419",
+   "filingDate": "2026-09-11",
+   "accession": "0000895419-26-000065",
+   "url": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000065/wolf-20260911.htm",
+   "recordDate": "2026-08-31",
+   "meetingDate": "2026-10-27",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 1"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "ELECTION OF DIRECTORS",
+     "boardRec": null,
+     "quote": "PROPOSAL NO. 1-ELECTION OF DIRECTORS",
+     "recQuote": null
+    },
+    {
+     "id": "2",
+     "kind": "equity_plan",
+     "text": "APPROVAL OF 2026 EMPLOYEE STOCK PURCHASE PLAN General The Board of Directors adopted the ESPP on August 25, 2026, subject to the approval of",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 2-APPROVAL OF 2026 EMPLOYEE STOCK PURCHASE PLAN General The Board of Directors adopted the ESPP on August 25, 2026, subject to the approval of",
+     "recQuote": "The Board of Directors recommends stockholders vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "say_on_pay",
+     "text": "ADVISORY (NONBINDING) VOTE TO APPROVE EXECUTIVE COMPENSATION",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 3-ADVISORY (NONBINDING) VOTE TO APPROVE EXECUTIVE COMPENSATION",
+     "recQuote": "The Board of Directors recommends stockholders vote FOR"
+    },
+    {
+     "id": "4",
+     "kind": "auditor",
+     "text": "RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITORS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 4-RATIFICATION OF APPOINTMENT OF INDEPENDENT AUDITORS",
+     "recQuote": "The Board of Directors recommends that you vote FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-11",
+     "accession": "0000895419-26-000066",
+     "url": "https://www.sec.gov/Archives/edgar/data/895419/000089541926000066/defa14a2026.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "WOLFon",
+     "address": "0x55b56cc2cdcbc2c58668f72663be7599a46ed79f",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 53
+    }
+   ]
+  },
+  {
+   "ticker": "MSTR",
+   "otherTickersOnCik": [
+    "STRC",
+    "STRK"
+   ],
+   "company": "Strategy Inc",
+   "cik": "0001050446",
+   "filingDate": "2026-10-05",
+   "accession": "0001193125-26-413159",
+   "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413159/d503578ddef14a.htm",
+   "recordDate": "2026-09-25",
+   "meetingDate": "2026-10-28",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "other",
+     "text": "APPROVAL AND ADOPTION OF AN AMENDED AND RESTATED CERTIFICATE OF DESIGNATIONS FOR EACH OF THE COMPANY'S 10.00% SERIES A PERPETUAL STRIFE PREF",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 1-APPROVAL AND ADOPTION OF AN AMENDED AND RESTATED CERTIFICATE OF DESIGNATIONS FOR EACH OF THE COMPANY'S 10.00% SERIES A PERPETUAL STRIFE PREF",
+     "recQuote": "The Board Recommends a Vote \"FOR"
+    },
+    {
+     "id": "2",
+     "kind": "other",
+     "text": "APPROVE ONE OR MORE ADJOURNMENTS OF THE SPECIAL MEETING FROM TIME TO TIME IF NECESSARY TO SOLICIT ADDITIONAL PROXIES IF THERE ARE INSUFFICIE",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 2-APPROVE ONE OR MORE ADJOURNMENTS OF THE SPECIAL MEETING FROM TIME TO TIME IF NECESSARY TO SOLICIT ADDITIONAL PROXIES IF THERE ARE INSUFFICIE",
+     "recQuote": "The Board Recommends a Vote \"FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-10-05",
+     "accession": "0001193125-26-414480",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526414480/mstr-20261005.htm"
+    },
+    {
+     "filingDate": "2026-10-05",
+     "accession": "0001193125-26-413171",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413171/mstr-20261005.htm"
+    },
+    {
+     "filingDate": "2026-10-01",
+     "accession": "0001193125-26-409866",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526409866/mstr-20261001.htm"
+    },
+    {
+     "filingDate": "2026-09-30",
+     "accession": "0001193125-26-409242",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526409242/mstr-20260930.htm"
+    },
+    {
+     "filingDate": "2026-09-29",
+     "accession": "0001193125-26-407758",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526407758/mstr-20260929.htm"
+    },
+    {
+     "filingDate": "2026-09-28",
+     "accession": "0001193125-26-405530",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526405530/mstr-20260928.htm"
+    },
+    {
+     "filingDate": "2026-09-28",
+     "accession": "0001193125-26-403425",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526403425/mstr-20260928.htm"
+    },
+    {
+     "filingDate": "2026-09-25",
+     "accession": "0001193125-26-402937",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm"
+    },
+    {
+     "filingDate": "2026-09-25",
+     "accession": "0001193125-26-402802",
+     "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/mstr-20260925.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "MSTRB",
+     "address": "0xe87afb3076aeb0f9b14e368de8145ae6a2826a14",
+     "type": 3,
+     "multiplier": "1.000000000000000000",
+     "holders": null
+    },
+    {
+     "symbol": "MSTRon",
+     "address": "0x7313ea16493b2f55054df0131a3a14b043ec8992",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 1843
+    },
+    {
+     "symbol": "MSTRx",
+     "address": "0xae2f842ef90c0d5213259ab82639d5bbf649b08e",
+     "type": 2,
+     "multiplier": "1",
+     "holders": null
+    }
+   ]
+  },
+  {
+   "ticker": "LRCX",
+   "otherTickersOnCik": [],
+   "company": "LAM RESEARCH CORP",
+   "cik": "0000707549",
+   "filingDate": "2026-09-24",
+   "accession": "0000707549-26-000047",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000047/lrcx-20260924.htm",
+   "recordDate": "2026-09-04",
+   "meetingDate": "2026-11-03",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 1: Election of Directors",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE \"FOR"
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote to Approve Our Named Executive Officer Compensation",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 2: Advisory Vote to Approve Our Named Executive Officer Compensation",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE \"FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of the Appointment of our Independent Registered Public Accounting Firm for Fiscal Year",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 3 : Ratification of the Appointment of our Independent Registered Public Accounting Firm for Fiscal Year",
+     "recQuote": "THE BOARD OF DIRECTORS RECOMMENDS A VOTE \"FOR"
+    },
+    {
+     "id": "4",
+     "kind": "shareholder",
+     "text": "Attainable Shareholder Right to Call for a Special Shareholder Meeting Shareholders ask our Board of Directors to take the steps necessary t",
+     "boardRec": "AGAINST",
+     "quote": "Proposal 4 - Attainable Shareholder Right to Call for a Special Shareholder Meeting Shareholders ask our Board of Directors to take the steps necessary t",
+     "recQuote": "The Board UNANIMOUSLY recommends that you vote \" AGAINST"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-24",
+     "accession": "0001140361-26-037565",
+     "url": "https://www.sec.gov/Archives/edgar/data/707549/000114036126037565/ef20082050_defa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "LRCXon",
+     "address": "0x35895a1fa1aff7fb3204fb01257409fd75acb24c",
+     "type": 1,
+     "multiplier": "1.002082277478955134",
+     "holders": 182
+    }
+   ]
+  },
+  {
+   "ticker": "PURR",
+   "otherTickersOnCik": [],
+   "company": "Hyperliquid Strategies Inc",
+   "cik": "0002078856",
+   "filingDate": "2026-10-02",
+   "accession": "0001193125-26-412569",
+   "url": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526412569/d290166ddef14a.htm",
+   "recordDate": "2026-09-30",
+   "meetingDate": "2026-11-04",
+   "status": "needs_review",
+   "failedChecks": [
+    "recommendations: no verified board recommendation for proposal 2, 4, 13, 18",
+    "ids: ids [1,2,3,4,13,18] are not 1..n",
+    "count: filing mentions proposals up to 13; extracted 6"
+   ],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "other",
+     "text": "THE DIRECTOR ELECTION",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 1-THE DIRECTOR ELECTION",
+     "recQuote": "Our Board unanimously recommends that you vote \"FOR"
+    },
+    {
+     "id": "2",
+     "kind": "other",
+     "text": "THE NASDAQ PROPOSAL On October 22, 2025, we entered into a ChEF Purchase Agreement (as subsequently amended, the \" Purchase Agreement \") wit",
+     "boardRec": null,
+     "quote": "PROPOSAL NO. 2 THE NASDAQ PROPOSAL On October 22, 2025, we entered into a ChEF Purchase Agreement (as subsequently amended, the \" Purchase Agreement \") wit",
+     "recQuote": null
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "THE AUDITOR RATIFICATION",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 3-THE AUDITOR RATIFICATION",
+     "recQuote": "Our Board unanimously recommends a vote \"FOR"
+    },
+    {
+     "id": "4",
+     "kind": "other",
+     "text": "THE ADJOURNMENT PROPOSAL The Board believes that if the number of shares of the Company's Common Stock entitled to vote at the annual meetin",
+     "boardRec": null,
+     "quote": "PROPOSAL NO. 4 THE ADJOURNMENT PROPOSAL The Board believes that if the number of shares of the Company's Common Stock entitled to vote at the annual meetin",
+     "recQuote": null
+    },
+    {
+     "id": "13",
+     "kind": "other",
+     "text": "Class I Director Nominees Standing for Election",
+     "boardRec": null,
+     "quote": "PROPOSAL 13 Class I Director Nominees Standing for Election",
+     "recQuote": null
+    },
+    {
+     "id": "18",
+     "kind": "shareholder",
+     "text": "Reasons for Requesting Stockholder Approval",
+     "boardRec": null,
+     "quote": "PROPOSAL 18 Reasons for Requesting Stockholder Approval",
+     "recQuote": null
+    }
+   ],
+   "amendments": [],
+   "wrappers": [
+    {
+     "symbol": "PURRon",
+     "address": "0x89cc700f308a4c59889fbf3286216554c53b0601",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 111
+    }
+   ]
+  },
+  {
+   "ticker": "KLAC",
+   "otherTickersOnCik": [],
+   "company": "KLA CORP",
+   "cik": "0000319201",
+   "filingDate": "2026-09-22",
+   "accession": "0001193125-26-397898",
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526397898/d83268ddef14a.htm",
+   "recordDate": "2026-09-09",
+   "meetingDate": "2026-11-04",
+   "status": "needs_review",
+   "failedChecks": [
+    "quotes: no proposals extracted",
+    "recommendations: no proposals extracted",
+    "ids: ids [] are not 1..n",
+    "count: filing mentions proposals up to 3; extracted 0"
+   ],
+   "proposals": [],
+   "amendments": [
+    {
+     "filingDate": "2026-09-22",
+     "accession": "0001193125-26-397940",
+     "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526397940/d108333ddefa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "KLACon",
+     "address": "0xfc263946439b0d802bf4c5a6fcd34e2885259f91",
+     "type": 1,
+     "multiplier": "10.026064925604903975",
+     "holders": 149
+    }
+   ]
+  },
+  {
+   "ticker": "EXTR",
+   "otherTickersOnCik": [],
+   "company": "EXTREME NETWORKS INC",
+   "cik": "0001078271",
+   "filingDate": "2026-09-18",
+   "accession": "0001193125-26-395545",
+   "url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526395545/extr-20260918.htm",
+   "recordDate": "2026-06-30",
+   "meetingDate": "2026-11-04",
+   "status": "needs_review",
+   "failedChecks": [
+    "quotes: no proposals extracted",
+    "recommendations: no proposals extracted",
+    "ids: ids [] are not 1..n",
+    "count: filing mentions proposals up to 4; extracted 0"
+   ],
+   "proposals": [],
+   "amendments": [
+    {
+     "filingDate": "2026-09-18",
+     "accession": "0001193125-26-395561",
+     "url": "https://www.sec.gov/Archives/edgar/data/1078271/000119312526395561/extr-defa14a-2026_notice.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "EXTRon",
+     "address": "0x1eada1306df72a5607827416c1a1307d7056dfff",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 15
+    }
+   ]
+  },
+  {
+   "ticker": "SNDK",
+   "otherTickersOnCik": [],
+   "company": "Sandisk Corp",
+   "cik": "0002023554",
+   "filingDate": "2026-10-06",
+   "accession": "0001308179-26-000423",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000423/sndk-20261005.htm",
+   "recordDate": "2026-09-21",
+   "meetingDate": "2026-11-17",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": "FOR",
+     "quote": "Proposal 1: Election of Directors",
+     "recQuote": "Our Board of Directors recommends a vote FOR"
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote on Named Executive Officer Compensation",
+     "boardRec": "FOR",
+     "quote": "Proposal 2: Advisory Vote on Named Executive Officer Compensation",
+     "recQuote": "Our Board of Directors recommends a vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "Proposal 3 : Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+     "recQuote": "Our Board of Directors recommends a vote FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-10-06",
+     "accession": "0001308179-26-000424",
+     "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000424/a2026sandiskdefa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "SNDKB",
+     "address": "0x3ee4df61bd4f867e349beae8bfe07bc31b4850fb",
+     "type": 3,
+     "multiplier": "1.000000000000000000",
+     "holders": null
+    },
+    {
+     "symbol": "SNDKon",
+     "address": "0x4fd67cb8cfedc718bac984b5936abe3330d0a2a4",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 1502
+    }
+   ]
+  },
+  {
+   "ticker": "LITE",
+   "otherTickersOnCik": [],
+   "company": "Lumentum Holdings Inc.",
+   "cik": "0001633978",
+   "filingDate": "2026-10-06",
+   "accession": "0001308179-26-000420",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817926000420/lite2026-def14a.htm",
+   "recordDate": "2026-09-24",
+   "meetingDate": "2026-11-18",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 1 Election of Directors",
+     "recQuote": "olders in 2027. Your board of directors recommends that you vote \"FOR"
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote to Approve Compensation of our Named Executive Officers",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 2 Advisory Vote to Approve Compensation of our Named Executive Officers",
+     "recQuote": "roxy Statement. Your board of directors recommends that you vote \"FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of Appointment of Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "Proposal No. 3 Ratification of Appointment of Independent Registered Public Accounting Firm",
+     "recQuote": "olders in 2027. Your board of directors recommends that you vote \"FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-10-06",
+     "accession": "0001308179-26-000421",
+     "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817926000421/lite2026-defa14a.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "LITEB",
+     "address": "0x64748bea17b6d19e242adf20425de2440c656142",
+     "type": 3,
+     "multiplier": "1.000000000000000000",
+     "holders": null
+    },
+    {
+     "symbol": "LITEon",
+     "address": "0x0facafb97ffdba3cae88512070af49bd30674cd9",
+     "type": 1,
+     "multiplier": "1",
+     "holders": 148
+    }
+   ]
+  },
+  {
+   "ticker": "ORCL",
+   "otherTickersOnCik": [],
+   "company": "ORACLE CORP",
+   "cik": "0001341439",
+   "filingDate": "2026-09-25",
+   "accession": "0001193125-26-402816",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm",
+   "recordDate": "2026-09-21",
+   "meetingDate": "2026-11-18",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "ELECTION OF DIRECTORS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 1: ELECTION OF DIRECTORS",
+     "recQuote": "The Board of Directors recommends a vote FOR"
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 2: ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS",
+     "recQuote": "The Board of Directors unanimously recommends a vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "RATIFICATION OF THE SELECTION OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL NO. 3: RATIFICATION OF THE SELECTION OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+     "recQuote": "The Board of Directors unanimously recommends a vote FOR"
+    },
+    {
+     "id": "4",
+     "kind": "shareholder",
+     "text": "STOCKHOLDER PROPOSAL REGARDING PRESERVATION OF SHAREHOLDER PROPOSAL ACCESS RIGHTS",
+     "boardRec": "AGAINST",
+     "quote": "PROPOSAL NO. 4: STOCKHOLDER PROPOSAL REGARDING PRESERVATION OF SHAREHOLDER PROPOSAL ACCESS RIGHTS",
+     "recQuote": "The Board recommends that stockholders vote AGAINST"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-09-25",
+     "accession": "0001193125-26-402831",
+     "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402831/orcl-defa14a-2026_notice.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "ORCLB",
+     "address": "0x4684d9887fc1c71cba7bab8e88835cec217eb598",
+     "type": 3,
+     "multiplier": "1",
+     "holders": null
+    },
+    {
+     "symbol": "ORCLon",
+     "address": "0x03e4bd1ea53f1da84513da0319d1f03dd1bbcf93",
+     "type": 1,
+     "multiplier": "1.0079328914586566",
+     "holders": 1329
+    },
+    {
+     "symbol": "ORCLx",
+     "address": "0x548308e91ec9f285c7bff05295badbd56a6e4971",
+     "type": 2,
+     "multiplier": "1",
+     "holders": null
+    }
+   ]
+  },
+  {
+   "ticker": "WDC",
+   "otherTickersOnCik": [],
+   "company": "WESTERN DIGITAL CORP",
+   "cik": "0000106040",
+   "filingDate": "2026-10-05",
+   "accession": "0001628280-26-064909",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026064909/wdc-20261005.htm",
+   "recordDate": "2026-09-22",
+   "meetingDate": "2026-11-20",
+   "status": "ready",
+   "failedChecks": [],
+   "proposals": [
+    {
+     "id": "1",
+     "kind": "director_election",
+     "text": "Election of Directors",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 1: Election of Directors",
+     "recQuote": "Our Board recommends a vote FOR"
+    },
+    {
+     "id": "2",
+     "kind": "say_on_pay",
+     "text": "Advisory Vote on Named Executive Officer Compensation",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 2: Advisory Vote on Named Executive Officer Compensation",
+     "recQuote": "Our Board recommends a vote FOR"
+    },
+    {
+     "id": "3",
+     "kind": "auditor",
+     "text": "Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+     "boardRec": "FOR",
+     "quote": "PROPOSAL 3 : Ratification of Appointment of Our Independent Registered Public Accounting Firm",
+     "recQuote": "Our Board recommends a vote FOR"
+    }
+   ],
+   "amendments": [
+    {
+     "filingDate": "2026-10-05",
+     "accession": "0001628280-26-064914",
+     "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026064914/a2026wdnoticeaccess.htm"
+    }
+   ],
+   "wrappers": [
+    {
+     "symbol": "WDCB",
+     "address": "0xebe29695f8047c13d36e7a790ca8c1b239ffad1c",
+     "type": 3,
+     "multiplier": "1.000224983929808861",
+     "holders": null
+    },
+    {
+     "symbol": "WDCon",
+     "address": "0xceb29848d04ad3cb46e1fe8e45b82ffac39d797d",
+     "type": 1,
+     "multiplier": "1.00040472067533532",
+     "holders": 390
+    }
+   ]
+  }
+ ]
+}

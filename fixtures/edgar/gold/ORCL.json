@@ -1,0 +1,7 @@
+{"note":"Hand-checked against the filing text on 2026-10-09.",
+ "recordDate":"2026-09-21","meetingDate":"2026-11-18",
+ "proposals":[
+  {"id":"1","kind":"director_election","boardRec":"FOR","titleHas":"election of directors"},
+  {"id":"2","kind":"say_on_pay","boardRec":"FOR","titleHas":"advisory vote to approve the compensation"},
+  {"id":"3","kind":"auditor","boardRec":"FOR","titleHas":"ratification of the selection"},
+  {"id":"4","kind":"shareholder","boardRec":"AGAINST","titleHas":"preservation of shareholder proposal access"}]}

@@ -1,0 +1,9 @@
+{"note":"Hand-checked against the filing text on 2026-10-09. Items 4-6 are three shareholder proposals.",
+ "recordDate":"2026-08-14","meetingDate":"2026-10-13",
+ "proposals":[
+  {"id":"1","kind":"director_election","boardRec":"FOR","titleHas":"election of directors"},
+  {"id":"2","kind":"auditor","boardRec":"FOR","titleHas":"independent registered public accounting"},
+  {"id":"3","kind":"say_on_pay","boardRec":"FOR","titleHas":"advisory vote on executive compensation"},
+  {"id":"4","kind":"shareholder","boardRec":"AGAINST","titleHas":"lower threshold for special meetings"},
+  {"id":"5","kind":"shareholder","boardRec":"AGAINST","titleHas":"eligibility thresholds"},
+  {"id":"6","kind":"shareholder","boardRec":"AGAINST","titleHas":"charitable contributions"}]}

@@ -1,0 +1,6 @@
+{"note":"Hand-checked against the filing text on 2026-10-09.",
+ "recordDate":"2026-08-27","meetingDate":"2026-10-19",
+ "proposals":[
+  {"id":"1","kind":"director_election","boardRec":"FOR","titleHas":"election of directors"},
+  {"id":"2","kind":"auditor","boardRec":"FOR","titleHas":"ratification of appointment"},
+  {"id":"3","kind":"say_on_pay","boardRec":"FOR","titleHas":"compensation of the company's named executive officers"}]}

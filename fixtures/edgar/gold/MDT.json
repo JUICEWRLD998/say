@@ -1,0 +1,9 @@
+{"note":"Hand-checked against the filing text on 2026-10-09. Irish plc: proposals 1,2,3,4,6 ordinary, 5 special resolution.",
+ "recordDate":"2026-08-21","meetingDate":"2026-10-15",
+ "proposals":[
+  {"id":"1","kind":"director_election","boardRec":"FOR","titleHas":"election of directors"},
+  {"id":"2","kind":"auditor","boardRec":"FOR","titleHas":"independent auditor"},
+  {"id":"3","kind":"say_on_pay","boardRec":"FOR","titleHas":"named executive officer compensation"},
+  {"id":"4","kind":"other","boardRec":"FOR","titleHas":"issue shares under irish law"},
+  {"id":"5","kind":"other","boardRec":"FOR","titleHas":"pre-emption rights"},
+  {"id":"6","kind":"other","boardRec":"FOR","titleHas":"overseas market purchases"}]}

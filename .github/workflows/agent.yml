@@ -1,0 +1,43 @@
+name: say-agent
+
+# One unattended pass of scripts/agent.mjs: watch EDGAR, parse, open ballots, tally, close, recount.
+# It never signs a ballot. It commits the public record (meetings/, fixtures/edgar/, agent-log.jsonl) when it changes.
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: say-agent
+  cancel-in-progress: false
+
+jobs:
+  pass:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Agent pass
+        env:
+          # The SEC asks for a contact in the User-Agent. Optional repo secret; the default carries no email.
+          SAY_SEC_UA: ${{ secrets.SAY_SEC_UA }}
+        run: |
+          if [ -z "$SAY_SEC_UA" ]; then unset SAY_SEC_UA; fi
+          node scripts/agent.mjs
+      - name: Commit the public record
+        run: |
+          git config user.name "say-agent"
+          git config user.email "say-agent@users.noreply.github.com"
+          git add meetings fixtures/edgar agent-log.jsonl agent-status.json
+          if git diff --cached --quiet; then echo "nothing changed"; else git commit -m "agent: pass $(date -u +%Y-%m-%dT%H:%MZ)"; git push; fi

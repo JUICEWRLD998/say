@@ -39,6 +39,36 @@ function doh(host) {
   });
 }
 
+const net = require('node:net');
+const reachable = new Map(); // ip -> last good ip cache is per process; cheap and avoids re-probing
+
+/** Resolves to the first ip that completes a TCP handshake within 3 s, or null if none does. */
+function firstReachable(ips) {
+  const known = ips.find((ip) => reachable.get(ip) === true);
+  if (known) return Promise.resolve(known);
+  return new Promise((resolve) => {
+    let pending = ips.length;
+    const sockets = [];
+    const done = (ip) => {
+      for (const s of sockets) s.destroy();
+      resolve(ip);
+    };
+    for (const ip of ips) {
+      const s = net.connect({ host: ip, port: 443, timeout: 3000 });
+      sockets.push(s);
+      s.once('connect', () => {
+        reachable.set(ip, true);
+        done(ip);
+      });
+      const fail = () => {
+        if (--pending === 0) done(null);
+      };
+      s.once('timeout', fail);
+      s.once('error', fail);
+    }
+  });
+}
+
 dns.lookup = function lookup(hostname, options, callback) {
   if (typeof options === 'function') {
     callback = options;
@@ -50,9 +80,12 @@ dns.lookup = function lookup(hostname, options, callback) {
     return original.call(dns, hostname, options, callback);
   }
   doh(hostname).then(
-    (ips) => {
-      if (options.all) callback(null, ips.map((address) => ({ address, family: 4 })));
-      else callback(null, ips[Math.floor(Math.random() * ips.length)], 4);
+    async (ips) => {
+      // Put an address that accepts a TCP connection on :443 first, so one dead CloudFront IP cannot stall the caller.
+      const first = await firstReachable(ips);
+      const ordered = first ? [first, ...ips.filter((ip) => ip !== first)] : ips;
+      if (options.all) callback(null, ordered.map((address) => ({ address, family: 4 })));
+      else callback(null, ordered[0], 4);
     },
     // If DoH fails, fall back to the system resolver so the original error surfaces.
     () => original.call(dns, hostname, options, callback),

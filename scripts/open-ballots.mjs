@@ -1,7 +1,7 @@
 // Phase 3: open a ballot for every `ready` meeting. Resolves the record date to a BSC block and writes
 // meetings/<TICKER>-<meetingDate>/{meeting,wrappers}.json (the public record). bigints travel as decimal strings.
 //   node scripts/open-ballots.mjs
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { blockAtOrBefore, blockTimestamp, etCloseUtc } from './bsc.mjs';
 
 const { meetings } = JSON.parse(readFileSync('fixtures/edgar/meetings.json', 'utf8'));
@@ -11,6 +11,11 @@ const now = Math.floor(Date.now() / 1000);
 let opened = 0;
 for (const m of meetings.filter((x) => x.status === 'ready')) {
   const id = `${m.ticker}-${m.meetingDate}`;
+  // Never rewrite an open meeting: its close block, ballots and tally belong to the public record.
+  if (existsSync(`meetings/${id}/meeting.json`)) {
+    console.log(`KEEP ${id}: already open`);
+    continue;
+  }
   const cutoff = etCloseUtc(m.recordDate);
   if (cutoff > now) {
     console.log(`SKIP ${id}: record date ${m.recordDate} is not past yet`);

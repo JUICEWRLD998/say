@@ -1,0 +1,15 @@
+{"ts":"2026-10-09T09:46:08.463Z","action":"scan","reason":"skipped by flag; using the filings already on disk","detail":{}}
+{"ts":"2026-10-09T09:46:08.471Z","action":"parse","reason":"nothing to parse: no new DEF 14A","detail":{}}
+{"ts":"2026-10-09T09:46:08.474Z","action":"hold","reason":"14 meeting(s) failed a check and are not shown as ballots","detail":{"held":["APLD: date-order,recommendations","FLEX: date-order","NNE: date-order","NKE: recommendations","MEI: quotes,recommendations,ids,count","WS: recommendations","AMC: recommendations,ids,count","AOSL: recommendations,ids,count","STX: recommendations","AI: recommendations,ids,count","WOLF: recommendations","PURR: recommendations,ids,count","KLAC: quotes,recommendations,ids,count","EXTR: quotes,recommendations,ids,count"]}}
+{"ts":"2026-10-09T09:46:08.613Z","action":"open","reason":"no new ballots to open","detail":{"opened":[]}}
+{"ts":"2026-10-09T09:46:19.683Z","action":"tally","reason":"AEHR-2026-10-19: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:46:38.848Z","action":"tally","reason":"CRDO-2026-10-12: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:47:07.022Z","action":"tally","reason":"LITE-2026-11-18: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:47:38.533Z","action":"tally","reason":"LRCX-2026-11-03: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:47:53.760Z","action":"tally","reason":"MDT-2026-10-15: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:48:43.509Z","action":"tally","reason":"MSTR-2026-10-28: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:49:02.303Z","action":"tally","reason":"ORCL-2026-11-18: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:49:17.508Z","action":"tally","reason":"PG-2026-10-13: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:49:28.793Z","action":"tally","reason":"SNDK-2026-11-17: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:49:48.947Z","action":"tally","reason":"WDC-2026-11-20: tally published, recount matches","detail":{"status":"open","line":"ballots=1 counted=0 voice=1 rejected=0"}}
+{"ts":"2026-10-09T09:49:48.948Z","action":"sign","reason":"no ballot signed by the agent: a ballot needs the holder's own signature; no wallet session is used here","detail":{}}

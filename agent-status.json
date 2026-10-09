@@ -1,0 +1,55 @@
+{
+ "lastRun": "2026-10-09T09:49:48.948Z",
+ "meetings": [
+  {
+   "meeting": "AEHR-2026-10-19",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "CRDO-2026-10-12",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "LITE-2026-11-18",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "LRCX-2026-11-03",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "MDT-2026-10-15",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "MSTR-2026-10-28",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "ORCL-2026-11-18",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "PG-2026-10-13",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "SNDK-2026-11-17",
+   "status": "open",
+   "recountMatches": true
+  },
+  {
+   "meeting": "WDC-2026-11-20",
+   "status": "open",
+   "recountMatches": true
+  }
+ ]
+}

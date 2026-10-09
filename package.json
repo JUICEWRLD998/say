@@ -19,6 +19,8 @@
     "edgar:parse": "node scripts/edgar-parse.mjs",
     "bsc:test": "node scripts/bsc-test.mjs",
     "ballots:open": "node scripts/open-ballots.mjs",
-    "recount:all": "node scripts/recount-all.mjs"
+    "recount:all": "node scripts/recount-all.mjs",
+    "agent": "node scripts/agent.mjs",
+    "my-meetings": "node scripts/my-meetings.mjs"
   }
 }

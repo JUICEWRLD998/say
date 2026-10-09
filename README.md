@@ -4,7 +4,7 @@ Own the share. Have your say.
 
 Tokenized stocks give you the price but take away your vote. Say reads each proxy statement for the companies you hold on BNB Chain, marks your ballot by a policy you chose, and signs it with your Agentic Wallet. The tally is weighted by on-chain shares at the company's record date, and anyone can recount it.
 
-Status: Phase 3 (10 open ballots, archive-weighted tallies, recount matches on all; Agentic Wallet signing pending a reachable binance.com).
+Status: Phase 4 (unattended agent pass, intake read, labelled local-key signing; Agentic Wallet and Agent Studio not used).
 
 By Mustapha Fadhlullah, independent security researcher.
 
@@ -16,6 +16,8 @@ By Mustapha Fadhlullah, independent security researcher.
 - `scripts/edgar-parse.mjs`: parses each DEF 14A and writes the meeting calendar `fixtures/edgar/meetings.json`.
 - `scripts/bsc.mjs`: timestamp to BSC block (`pnpm bsc:test`). `scripts/open-ballots.mjs`: writes `meetings/<TICKER>-<meetingDate>/` for each ready meeting.
 - `scripts/sign-ballot.mjs` (labelled local EIP-712 fallback signer), `scripts/tally-meeting.mjs`, `scripts/electorate.mjs` (real-holder test reads), `scripts/recount-all.mjs`.
+- `scripts/agent.mjs`: one unattended pass (scan, parse, open, tally, close, recount) with a reason logged per action in `agent-log.jsonl`. `.github/workflows/agent.yml` runs it every 6 hours. `scripts/my-meetings.mjs <address>` answers "which of my stocks vote?".
+- `scripts/doh-preload.cjs`: resolves `*.binance.com` over DNS-over-HTTPS for ISPs that block it.
 - `meetings/`: the public record. 10 open ballots with record blocks resolved from 16:00 ET on the record date.
 - `fixtures/edgar/gold/`: hand-checked expected output for 10 real filings. `fixtures/edgar/text/`: the filing text they are checked against.
 

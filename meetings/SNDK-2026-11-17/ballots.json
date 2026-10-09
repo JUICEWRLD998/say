@@ -1,0 +1,22 @@
+[
+ {
+  "signature": "0xeb8edbe30ad2ed4ba7955893a2bf5cfc1c41317a83814891d89fe7b973de55c075eebbb00c400394bddb72baae32e3c199d4078b3ce818ca995e34d6c411e4b41c",
+  "message": {
+   "meetingId": "SNDK-2026-11-17",
+   "ticker": "SNDK",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "123241401",
+   "issuedAt": "1791535466",
+   "proposalIds": [
+    "1",
+    "2",
+    "3"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

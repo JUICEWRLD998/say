@@ -1,0 +1,24 @@
+[
+ {
+  "signature": "0x1d24cc0a834e6b1a2eee1cf5a58dce8dd13a0ce6bf109676e35dcdd524a54c81243116d2801ff1a19f365d8870fa77f5bd0598e913ad28dcc16058372580a00d1c",
+  "message": {
+   "meetingId": "ORCL-2026-11-18",
+   "ticker": "ORCL",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "123241401",
+   "issuedAt": "1791535440",
+   "proposalIds": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR",
+    "AGAINST"
+   ]
+  }
+ }
+]

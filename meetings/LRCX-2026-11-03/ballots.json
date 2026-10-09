@@ -1,0 +1,24 @@
+[
+ {
+  "signature": "0xeeb951c12ee76c51c76c9ee1109c7511bc969a699d63174abc892d2e966bf5815caf96b4d6b1165f3975b8aebc919c2650f54385230c79bc17533c7ac9931c991b",
+  "message": {
+   "meetingId": "LRCX-2026-11-03",
+   "ticker": "LRCX",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "119978845",
+   "issuedAt": "1791535406",
+   "proposalIds": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR",
+    "AGAINST"
+   ]
+  }
+ }
+]

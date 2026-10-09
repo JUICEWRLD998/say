@@ -18,6 +18,7 @@
     "edgar:scan": "node scripts/edgar-scan.mjs",
     "edgar:parse": "node scripts/edgar-parse.mjs",
     "bsc:test": "node scripts/bsc-test.mjs",
-    "ballots:open": "node scripts/open-ballots.mjs"
+    "ballots:open": "node scripts/open-ballots.mjs",
+    "recount:all": "node scripts/recount-all.mjs"
   }
 }

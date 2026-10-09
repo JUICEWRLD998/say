@@ -1,0 +1,25 @@
+{
+ "meetingId": "MSTR-2026-10-28",
+ "totals": {
+  "1": {
+   "FOR": "0",
+   "AGAINST": "0",
+   "ABSTAIN": "0"
+  },
+  "2": {
+   "FOR": "0",
+   "AGAINST": "0",
+   "ABSTAIN": "0"
+  }
+ },
+ "counted": [],
+ "voice": [
+  {
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordE18": "0",
+   "closeE18": "0",
+   "reason": "zero_at_record_date"
+  }
+ ],
+ "rejected": []
+}

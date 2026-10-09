@@ -1,0 +1,22 @@
+[
+ {
+  "signature": "0xbbc42400931f04f872907c061008db92b0c549fb589ce69ca2d0aea32d1949644fca9c173c48ce665e1d0e71ae7012aecc163394d2689c17a403375b64a659901b",
+  "message": {
+   "meetingId": "AEHR-2026-10-19",
+   "ticker": "AEHR",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "118443844",
+   "issuedAt": "1791535352",
+   "proposalIds": [
+    "1",
+    "2",
+    "3"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

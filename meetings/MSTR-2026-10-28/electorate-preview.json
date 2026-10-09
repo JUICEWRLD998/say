@@ -1,0 +1,61 @@
+{
+ "meetingId": "MSTR-2026-10-28",
+ "kind": "TEST READS, not votes: these addresses did not sign a ballot",
+ "recordBlock": "124009118",
+ "candidateWindow": "Transfer recipients in blocks 123809118..124009118",
+ "candidates": 291,
+ "withShares": 154,
+ "multiplierNote": "wrapper multipliers are the RWA list values of 2026-10-06, not read at the record block",
+ "top": [
+  {
+   "address": "0x8894e0a0c962cb723c1976a4421c95949be2d4e3",
+   "isContract": false,
+   "weightE18": "264859217904952597394197"
+  },
+  {
+   "address": "0x73d8bd54f7cf5fab43fe4ef40a62d390644946db",
+   "isContract": true,
+   "weightE18": "92431126367313812373224"
+  },
+  {
+   "address": "0xe2fc31f816a9b94326492132018c3aecc4a93ae1",
+   "isContract": false,
+   "weightE18": "42358420285970000000000"
+  },
+  {
+   "address": "0x7ce24d5b6d0c29457352e217c4a902ae1a6c07b3",
+   "isContract": false,
+   "weightE18": "6255201370516455072104"
+  },
+  {
+   "address": "0x8f73b65b4caaf64fba2af91cc5d4a2a1318e5d8c",
+   "isContract": true,
+   "weightE18": "1487588508837541119259"
+  },
+  {
+   "address": "0x692081209619735f25700557078ab084d3e5d007",
+   "isContract": true,
+   "weightE18": "1068882984284765711231"
+  },
+  {
+   "address": "0xe2588c219697f520757b82f5b0119d72bddc0e13",
+   "isContract": true,
+   "weightE18": "849080467689786606096"
+  },
+  {
+   "address": "0xba8db0caf781cac69b6acf6c848ac148264cc05d",
+   "isContract": true,
+   "weightE18": "517257766074032548295"
+  },
+  {
+   "address": "0x8a08d98cbb218fceb318ecf3abc1ba43d8a7ab0e",
+   "isContract": true,
+   "weightE18": "446478814503104506435"
+  },
+  {
+   "address": "0x60cc7d4cdbb7479fd3fd3606265f00cd33dea629",
+   "isContract": false,
+   "weightE18": "405616456999999434355"
+  }
+ ]
+}

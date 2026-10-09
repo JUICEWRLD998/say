@@ -1,0 +1,20 @@
+[
+ {
+  "signature": "0x863039a70719f3b1a6f6a502a4501269c6f4b1f277c78b22e42496974ed56b06188bfcc58d0ab9e8a03e3c10a4252c3b973115ec42b0a03bf0db9488620094e71b",
+  "message": {
+   "meetingId": "MSTR-2026-10-28",
+   "ticker": "MSTR",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "124009118",
+   "issuedAt": "1791532880",
+   "proposalIds": [
+    "1",
+    "2"
+   ],
+   "choices": [
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

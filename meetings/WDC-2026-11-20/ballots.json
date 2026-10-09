@@ -1,0 +1,22 @@
+[
+ {
+  "signature": "0xf64694b9a906b33217ca62f184233516af001a069dd43985d81f295c878722a35b1ae9e3b49a317ac8607f23ff82b8f4a6c73022889ad8dafd7aa1db8258f7b51b",
+  "message": {
+   "meetingId": "WDC-2026-11-20",
+   "ticker": "WDC",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "123433326",
+   "issuedAt": "1791535477",
+   "proposalIds": [
+    "1",
+    "2",
+    "3"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

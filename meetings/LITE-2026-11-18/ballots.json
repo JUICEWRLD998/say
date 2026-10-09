@@ -1,0 +1,22 @@
+[
+ {
+  "signature": "0x1606752a15bae9354ad99f8ed5bb6db74ba29201599dea4ee73901d0e83d8c825f68a4ff2edb4f2f1dd797723b98d551ba629ff4aca9712588ea116a2c813b561b",
+  "message": {
+   "meetingId": "LITE-2026-11-18",
+   "ticker": "LITE",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "123817172",
+   "issuedAt": "1791535397",
+   "proposalIds": [
+    "1",
+    "2",
+    "3"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

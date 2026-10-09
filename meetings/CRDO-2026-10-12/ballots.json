@@ -1,0 +1,22 @@
+[
+ {
+  "signature": "0xa6af00987ea214180195474f27e9949d08718dad60ad3211fe8992b15fe9540f2542357803416a50a758413d865ccdcd8a26a5c1744b2d94a5db81b4c88b3ec31b",
+  "message": {
+   "meetingId": "CRDO-2026-10-12",
+   "ticker": "CRDO",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "117100403",
+   "issuedAt": "1791535384",
+   "proposalIds": [
+    "1",
+    "2",
+    "3"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

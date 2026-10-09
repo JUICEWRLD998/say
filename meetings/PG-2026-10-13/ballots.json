@@ -1,0 +1,28 @@
+[
+ {
+  "signature": "0x532289b564a814ca953bed329d95f331198fc300331fd7887999328dcb1f5dd46a33ab5e685bd87786d3ea6ee83f1de238b5f68fe07a7303c971391574ebd22a1b",
+  "message": {
+   "meetingId": "PG-2026-10-13",
+   "ticker": "PG",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "115948706",
+   "issuedAt": "1791535454",
+   "proposalIds": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR",
+    "AGAINST",
+    "AGAINST",
+    "AGAINST"
+   ]
+  }
+ }
+]

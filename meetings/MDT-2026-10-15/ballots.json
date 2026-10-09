@@ -1,0 +1,28 @@
+[
+ {
+  "signature": "0x1ca731f05d6d4b69a849c09c64a9a584f6eb45ec0e88cc66556f4ae532d555e95f564436ba708b2e01409f3f9fe5e470ca02d7f3eeaf6db428be16961f2b6e201b",
+  "message": {
+   "meetingId": "MDT-2026-10-15",
+   "ticker": "MDT",
+   "voter": "0xF3CF514253A8fed1e8579C9D22C988831D652CDA",
+   "recordBlock": "117292336",
+   "issuedAt": "1791535417",
+   "proposalIds": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "choices": [
+    "FOR",
+    "FOR",
+    "FOR",
+    "FOR",
+    "FOR",
+    "FOR"
+   ]
+  }
+ }
+]

@@ -6,7 +6,10 @@ export const readJson = (dir, file) => JSON.parse(readFileSync(join(dir, file), 
 
 export function loadMeeting(dir) {
   const m = readJson(dir, 'meeting.json');
-  return { ...m, recordBlock: BigInt(m.recordBlock), closeBlock: BigInt(m.closeBlock) };
+  // An open meeting has closeBlock null and a provisionalCloseBlock set by tally-meeting.mjs. Neither set is an error.
+  const close = m.closeBlock ?? m.provisionalCloseBlock;
+  if (close === undefined || close === null) throw new Error(`${m.id}: no closeBlock and no provisionalCloseBlock`);
+  return { ...m, recordBlock: BigInt(m.recordBlock), closeBlock: BigInt(close) };
 }
 
 export const loadWrappers = (dir) => readJson(dir, 'wrappers.json');
